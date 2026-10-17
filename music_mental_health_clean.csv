@@ -1,0 +1,737 @@
+Age,Primary streaming service,Hours per day,While working,Instrumentalist,Composer,Fav genre,Exploratory,Foreign languages,BPM,Frequency [Classical],Frequency [Country],Frequency [EDM],Frequency [Folk],Frequency [Gospel],Frequency [Hip hop],Frequency [Jazz],Frequency [K pop],Frequency [Latin],Frequency [Lofi],Frequency [Metal],Frequency [Pop],Frequency [R&B],Frequency [Rap],Frequency [Rock],Frequency [Video game music],Anxiety,Depression,Insomnia,OCD,Music effects,age_category,mental_sum,prefers_calm,prefers_energetic,avg_bpm_favorite,bpm_category
+18.0,Spotify,3.0,Yes,Yes,Yes,Latin,Yes,Yes,156.0,1,0,1,0,0,2,0,3,3,1,0,3,2,3,0,2,3.0,0.0,1.0,0.0,No effect,teens adult,4.0,0,1,139.3,extremely_fast
+63.0,Pandora,1.5,Yes,No,No,Rock,Yes,No,119.0,2,0,0,1,2,1,3,1,2,1,0,2,2,1,3,1,7.0,2.0,2.0,1.0,No effect,pre_retirement,12.0,2,0,120.7,moderate
+18.0,Spotify,4.0,No,No,No,Video game music,No,Yes,132.0,0,0,3,0,0,1,1,3,0,2,2,1,0,1,1,3,7.0,7.0,10.0,2.0,No effect,teens adult,26.0,1,2,125.5,fast
+61.0,YouTube Music,2.5,Yes,No,Yes,Jazz,Yes,Yes,84.0,2,0,0,1,2,0,3,2,3,2,0,2,2,0,0,0,9.0,7.0,3.0,3.0,Improve,pre_retirement,22.0,3,0,131.3,slow
+18.0,Spotify,4.0,Yes,No,No,R&B,Yes,No,107.0,0,0,1,0,1,3,0,3,2,2,0,2,3,3,0,1,7.0,2.0,5.0,9.0,Improve,teens adult,23.0,1,1,121.8,moderate
+18.0,Spotify,5.0,Yes,Yes,Yes,Jazz,Yes,Yes,86.0,1,2,0,0,0,2,3,3,1,3,1,3,3,3,3,0,8.0,8.0,7.0,7.0,Improve,teens adult,30.0,2,1,120.3,moderate
+18.0,YouTube Music,3.0,Yes,Yes,No,Video game music,Yes,Yes,120.0,2,0,1,2,1,1,2,0,1,1,1,1,1,0,0,2,4.0,8.0,6.0,0.0,Improve,teens adult,18.0,2,0,122.4,fast
+21.0,Spotify,1.0,Yes,No,No,K pop,Yes,Yes,95.0,0,0,1,0,0,3,1,3,0,2,0,2,2,1,0,1,5.0,3.0,5.0,3.0,Improve,20-24,16.0,1,1,122.1,moderate
+19.0,Spotify,6.0,Yes,No,No,Rock,No,No,94.0,0,3,0,2,0,0,0,0,0,0,3,0,0,0,3,0,2.0,0.0,0.0,0.0,Improve,teens adult,2.0,0,1,122.7,moderate
+18.0,I do not use a streaming service.,1.0,Yes,No,No,R&B,Yes,Yes,155.0,1,1,1,1,2,1,1,0,1,1,0,2,2,1,2,2,2.0,2.0,5.0,1.0,Improve,teens adult,10.0,0,0,118.9,extremely_fast
+18.0,Spotify,3.0,Yes,Yes,No,Country,Yes,No,109.0,0,3,0,0,0,0,0,0,0,0,0,1,1,0,1,0,7.0,7.0,4.0,7.0,No effect,teens adult,25.0,0,0,110.0,moderate
+19.0,YouTube Music,8.0,Yes,No,No,EDM,Yes,No,125.0,1,0,3,0,0,2,1,1,1,1,0,1,1,2,1,1,1.0,0.0,0.0,1.0,Improve,teens adult,2.0,0,2,131.8,fast
+21.0,Spotify,3.0,Yes,No,No,Hip hop,Yes,Yes,112.0,1,0,1,0,0,3,0,2,0,3,0,2,2,1,1,0,9.0,3.0,2.0,7.0,Improve,20-24,21.0,1,1,115.2,moderate
+19.0,Spotify,2.0,Yes,No,No,Country,Yes,No,88.0,0,3,1,2,0,2,0,0,0,1,0,1,0,3,0,0,2.0,1.0,2.0,0.0,Improve,teens adult,5.0,0,1,116.7,moderate
+18.0,Spotify,4.0,Yes,Yes,No,Jazz,Yes,Yes,148.0,3,1,0,0,0,0,3,0,2,1,2,2,0,0,2,1,6.0,4.0,7.0,0.0,Improve,teens adult,17.0,2,1,117.4,fast
+17.0,Spotify,2.0,No,No,No,Pop,Yes,Yes,120.0,1,1,0,0,0,2,1,1,1,1,1,3,1,2,2,1,7.0,5.0,4.0,1.0,Worsen,teens under 18,17.0,0,1,118.6,fast
+16.0,Spotify,8.0,Yes,No,No,Hip hop,Yes,Yes,103.0,0,0,0,0,0,3,0,0,0,0,0,0,2,3,0,1,8.0,8.0,4.0,3.0,Improve,teens under 18,23.0,0,1,120.5,moderate
+16.0,Spotify,12.0,Yes,No,Yes,Hip hop,Yes,Yes,120.0,1,0,2,1,0,3,1,0,0,0,2,2,1,2,3,0,5.0,7.0,10.0,0.0,Improve,teens under 18,22.0,0,3,118.1,fast
+17.0,Spotify,24.0,Yes,No,No,Rap,Yes,No,99.0,1,0,0,0,0,2,2,2,1,0,2,1,2,3,3,0,7.0,5.0,0.0,3.0,Improve,teens under 18,15.0,1,2,127.7,moderate
+15.0,Spotify,3.0,No,No,No,Hip hop,No,No,120.0,0,0,0,0,0,3,1,0,0,0,1,1,2,3,1,0,7.0,3.0,0.0,2.0,Improve,teens under 18,12.0,0,1,120.5,fast
+15.0,Apple Music,8.0,Yes,No,No,Hip hop,Yes,Yes,120.0,1,0,2,1,0,3,2,3,2,1,1,3,1,3,2,2,6.0,9.0,3.0,0.0,Improve,teens under 18,18.0,1,2,121.1,fast
+17.0,Spotify,4.0,Yes,No,No,Rap,Yes,No,125.0,0,1,1,0,0,2,0,0,0,1,1,2,0,3,2,0,10.0,10.0,2.0,4.0,Improve,teens under 18,26.0,0,1,130.1,fast
+19.0,I do not use a streaming service.,5.0,Yes,No,No,R&B,Yes,Yes,118.0,1,1,2,3,1,3,2,0,0,1,1,1,3,3,2,1,6.0,7.0,5.0,4.0,Improve,teens adult,22.0,1,2,119.8,moderate
+18.0,Spotify,2.0,Yes,No,No,Pop,No,Yes,79.0,1,1,2,0,0,1,0,1,2,0,0,3,0,0,0,1,3.0,3.0,8.0,6.0,No effect,teens adult,20.0,0,1,118.6,slow
+16.0,Other streaming service,3.0,Yes,Yes,Yes,Rock,Yes,Yes,84.0,1,1,0,1,2,2,2,0,1,0,2,0,2,1,3,2,10.0,6.0,8.0,10.0,Improve,teens under 18,34.0,1,2,122.9,slow
+18.0,Spotify,2.0,No,No,No,Pop,Yes,Yes,169.0,2,1,1,3,1,1,1,3,0,2,0,3,2,2,2,0,7.0,4.0,2.0,5.0,Improve,teens adult,18.0,2,0,119.5,extremely_fast
+14.0,Spotify,12.0,Yes,Yes,Yes,Rock,Yes,Yes,136.0,2,2,1,1,1,3,2,0,0,3,0,3,3,3,3,2,8.0,6.0,10.0,5.0,Improve,teens under 18,29.0,3,1,120.5,fast
+18.0,YouTube Music,6.0,Yes,Yes,Yes,Pop,No,Yes,101.0,2,1,1,1,1,2,2,0,0,0,0,3,2,2,0,0,3.0,2.0,1.0,2.0,Improve,teens adult,8.0,2,1,118.6,moderate
+17.0,Spotify,2.0,Yes,Yes,No,Pop,Yes,Yes,126.0,0,3,1,1,0,0,1,2,3,1,1,3,1,0,2,2,6.0,6.0,4.0,5.0,Improve,teens under 18,21.0,0,0,127.1,fast
+17.0,Apple Music,1.0,Yes,No,No,Pop,Yes,No,120.0,1,0,0,1,0,0,2,0,0,0,2,2,0,0,2,0,8.0,2.0,1.0,5.0,Improve,teens under 18,16.0,1,1,118.6,fast
+20.0,Apple Music,5.0,Yes,Yes,No,Rock,Yes,Yes,120.0,0,1,1,3,0,3,2,0,2,2,3,2,2,2,3,1,7.0,7.0,2.0,0.0,Improve,20-24,16.0,2,2,122.4,fast
+19.0,Spotify,2.0,Yes,No,No,Classical,No,No,120.0,3,0,0,0,0,1,1,0,0,2,0,3,0,0,0,3,4.0,4.0,4.0,3.0,No effect,teens adult,15.0,2,0,120.0,fast
+19.0,Spotify,6.0,Yes,Yes,No,Metal,Yes,Yes,140.0,0,0,0,1,0,1,2,1,0,2,3,2,0,0,2,2,9.0,8.0,2.0,3.0,Improve,teens adult,22.0,2,1,135.1,fast
+17.0,Spotify,4.0,No,No,No,Rock,Yes,Yes,142.0,1,1,1,3,0,2,1,1,0,1,1,3,1,2,3,1,5.0,6.0,6.0,1.0,Improve,teens under 18,18.0,0,1,119.9,fast
+16.0,Spotify,1.0,Yes,No,No,Classical,No,No,75.0,3,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0.0,0.0,0.0,0.0,No effect,teens under 18,0.0,1,0,119.6,slow
+18.0,Spotify,5.0,Yes,Yes,No,Pop,Yes,No,120.0,2,1,2,1,2,2,1,2,1,2,1,3,2,2,1,0,3.0,2.0,1.0,1.0,Improve,teens adult,7.0,2,2,118.6,fast
+21.0,Spotify,4.0,Yes,No,No,Pop,No,Yes,89.0,0,0,1,0,0,2,0,1,1,0,0,3,0,1,0,0,6.0,8.0,0.0,2.0,Improve,20-24,16.0,0,1,118.6,moderate
+17.0,Other streaming service,3.0,Yes,No,No,Pop,Yes,No,120.0,0,0,2,0,0,3,1,2,0,0,1,3,2,3,3,0,2.0,0.0,4.0,0.0,No effect,teens under 18,6.0,0,2,121.2,fast
+26.0,Other streaming service,0.5,No,No,No,Rock,No,Yes,140.0,1,0,1,2,0,0,1,0,0,0,0,1,0,0,3,0,9.0,8.0,1.0,0.0,No effect,25-29,18.0,0,0,122.9,fast
+20.0,Spotify,4.0,Yes,No,No,EDM,Yes,No,161.0,1,1,3,2,1,2,1,2,0,2,1,3,3,2,3,1,7.0,2.0,8.0,6.0,Improve,20-24,23.0,1,2,124.8,extremely_fast
+23.0,YouTube Music,2.0,Yes,Yes,Yes,Video game music,Yes,No,80.0,2,1,0,1,2,0,2,1,1,1,1,2,2,1,2,3,4.0,2.0,3.0,4.0,Improve,20-24,13.0,2,0,122.4,slow
+18.0,Spotify,5.0,Yes,Yes,No,Rock,Yes,No,130.0,3,0,0,2,0,2,2,1,0,2,3,2,1,2,3,2,7.0,6.0,5.0,0.0,Improve,teens adult,18.0,3,2,125.1,fast
+37.0,YouTube Music,0.25,No,No,No,Video game music,Yes,No,147.0,3,1,0,1,0,1,2,0,1,0,0,3,2,0,2,2,3.0,2.0,10.0,0.0,No effect,thirties,15.0,2,0,120.2,fast
+17.0,Spotify,3.0,Yes,No,No,Classical,Yes,Yes,120.0,3,0,3,0,0,3,2,2,1,2,0,2,3,3,1,2,6.0,6.0,8.0,2.0,Improve,teens under 18,22.0,3,2,122.6,fast
+18.0,Spotify,4.0,Yes,No,No,Metal,Yes,Yes,77.0,1,0,0,0,0,3,1,0,0,0,3,2,2,3,3,3,1.0,0.0,8.0,2.0,No effect,teens adult,11.0,0,2,126.9,slow
+17.0,I do not use a streaming service.,1.0,Yes,Yes,Yes,Folk,No,No,118.0,0,2,1,3,0,1,0,0,1,1,1,1,1,2,2,2,7.0,3.0,1.0,5.0,Improve,teens under 18,16.0,0,0,115.4,moderate
+36.0,Spotify,1.0,No,Yes,Yes,Classical,No,No,132.0,3,2,0,1,0,0,0,0,0,0,2,1,0,0,2,0,8.0,9.0,3.0,0.0,No effect,thirties,20.0,1,1,119.6,fast
+24.0,Spotify,3.0,Yes,No,No,Rock,Yes,Yes,115.0,1,0,1,2,0,0,0,1,0,3,1,2,0,0,3,2,9.0,6.0,4.0,3.0,Improve,20-24,22.0,1,0,120.0,moderate
+18.0,Spotify,5.0,Yes,No,Yes,Metal,Yes,Yes,157.0,0,0,1,1,0,3,1,0,1,1,3,2,1,3,3,0,7.0,9.0,5.0,0.0,Improve,teens adult,21.0,0,2,127.8,extremely_fast
+19.0,Spotify,3.0,Yes,No,No,Pop,No,Yes,90.0,2,1,2,0,0,3,2,1,0,2,1,3,2,2,2,2,7.0,4.0,2.0,4.0,No effect,teens adult,17.0,3,2,117.6,moderate
+17.0,Apple Music,2.0,Yes,Yes,No,EDM,Yes,No,128.0,0,1,3,0,0,1,0,0,1,1,3,2,2,2,3,1,0.0,0.0,0.0,0.0,Improve,teens under 18,0.0,0,2,130.4,fast
+16.0,Spotify,6.0,Yes,No,No,K pop,Yes,Yes,169.0,1,0,0,1,2,3,1,3,3,3,0,2,3,3,1,0,7.0,8.0,7.0,5.0,Improve,teens under 18,27.0,1,1,127.3,extremely_fast
+23.0,Apple Music,1.0,No,No,No,Rap,No,Yes,140.0,2,1,2,1,0,3,3,0,0,0,2,1,1,3,3,1,10.0,6.0,3.0,10.0,No effect,20-24,29.0,2,3,123.0,fast
+23.0,Spotify,12.0,Yes,No,No,Pop,Yes,Yes,96.0,3,1,0,3,0,1,2,1,1,1,0,3,2,1,1,0,3.0,7.0,5.0,5.0,No effect,20-24,20.0,2,0,118.0,moderate
+22.0,Spotify,4.0,Yes,No,Yes,Rock,Yes,Yes,126.0,1,0,1,2,0,1,1,0,0,1,2,3,2,1,3,1,8.0,7.0,4.0,3.0,Improve,20-24,22.0,0,1,121.4,fast
+16.0,Apple Music,2.0,Yes,Yes,No,Classical,Yes,No,118.0,3,0,0,0,0,1,2,0,0,0,0,1,1,1,2,1,0.0,0.0,1.0,3.0,Improve,teens under 18,4.0,2,0,119.6,moderate
+18.0,Spotify,6.0,Yes,No,No,Rock,Yes,No,91.0,1,0,0,1,0,0,0,0,0,0,3,1,0,2,3,0,8.0,6.0,2.0,10.0,No effect,teens adult,26.0,0,1,126.9,moderate
+42.0,I do not use a streaming service.,0.0,No,No,No,Rock,No,Yes,120.0,1,1,0,0,0,0,1,0,0,0,2,1,1,0,2,2,9.0,0.0,10.0,0.0,No effect,forties,19.0,0,1,122.9,fast
+23.0,Spotify,7.0,Yes,No,No,Folk,Yes,Yes,114.0,1,3,0,3,3,2,1,0,1,0,2,2,1,1,1,2,6.0,4.0,2.0,3.0,Improve,20-24,15.0,0,2,112.1,moderate
+23.0,I do not use a streaming service.,1.0,Yes,Yes,No,Video game music,No,No,85.0,2,2,2,1,0,1,2,1,1,3,0,2,3,1,2,3,7.0,0.0,0.0,2.0,Improve,20-24,9.0,3,1,119.5,moderate
+19.0,YouTube Music,1.0,No,Yes,No,K pop,Yes,Yes,160.0,0,0,0,0,0,0,2,3,0,0,0,0,0,0,0,1,10.0,1.0,0.0,0.0,Improve,teens adult,11.0,1,0,125.3,extremely_fast
+22.0,Pandora,1.0,No,Yes,No,Rock,Yes,No,108.0,1,0,2,1,0,0,3,0,0,0,0,2,1,0,3,1,8.0,7.0,0.0,5.0,Improve,20-24,20.0,1,1,120.7,moderate
+15.0,Other streaming service,2.0,Yes,Yes,No,Rock,No,No,156.0,0,0,1,1,0,0,0,0,0,1,2,2,0,0,3,2,3.0,2.0,6.0,7.0,Improve,teens under 18,18.0,0,1,122.9,extremely_fast
+25.0,Spotify,2.0,No,No,No,Metal,No,Yes,170.0,1,1,1,2,0,1,0,1,0,1,3,2,0,1,3,3,5.0,5.0,3.0,1.0,No effect,25-29,14.0,0,1,128.9,extremely_fast
+32.0,Spotify,5.0,Yes,No,No,Rock,No,Yes,91.0,2,0,1,2,0,2,1,1,0,0,3,3,3,1,3,0,10.0,10.0,3.0,1.0,Worsen,thirties,24.0,1,2,123.7,moderate
+36.0,Spotify,6.0,Yes,No,No,Metal,Yes,Yes,174.0,3,0,1,3,0,0,0,2,0,1,3,1,0,0,2,3,5.0,4.0,10.0,2.0,Improve,thirties,21.0,1,1,125.5,extremely_fast
+24.0,Spotify,3.0,No,No,No,Rock,Yes,Yes,130.0,2,2,0,1,0,0,1,0,1,0,3,3,0,0,3,0,0.0,0.0,8.0,0.0,No effect,20-24,8.0,1,1,124.8,fast
+29.0,Spotify,4.0,No,No,No,Hip hop,Yes,No,140.0,1,2,1,0,1,3,1,1,1,1,0,2,2,2,2,0,8.0,8.0,5.0,10.0,Improve,25-29,31.0,0,1,115.7,fast
+41.0,Apple Music,3.0,Yes,Yes,Yes,Metal,Yes,Yes,130.0,2,0,2,0,0,1,1,0,0,2,2,2,0,1,1,0,10.0,7.0,8.0,0.0,Improve,forties,25.0,2,2,135.1,fast
+36.0,I do not use a streaming service.,2.0,Yes,Yes,Yes,Rock,Yes,No,127.0,2,1,3,2,1,1,3,0,0,0,3,2,1,1,3,2,7.0,3.0,1.0,1.0,Improve,thirties,12.0,2,2,125.8,fast
+19.0,YouTube Music,3.0,Yes,No,No,Rock,Yes,No,160.0,1,2,2,1,0,2,1,0,2,2,2,2,3,3,3,1,8.0,7.0,4.0,0.0,Improve,teens adult,19.0,1,3,123.7,extremely_fast
+31.0,Spotify,2.0,Yes,No,No,Rock,Yes,Yes,120.0,0,2,0,1,2,0,2,1,0,0,2,3,0,0,3,0,10.0,2.0,0.0,5.0,No effect,thirties,17.0,1,1,121.4,fast
+16.0,Spotify,4.0,Yes,No,No,Rock,No,Yes,120.0,2,1,1,2,0,1,1,1,1,2,2,3,1,1,3,3,9.0,8.0,1.0,2.0,Improve,teens under 18,20.0,2,1,121.7,fast
+26.0,Spotify,2.0,Yes,Yes,Yes,Hip hop,Yes,Yes,165.0,1,1,3,1,1,3,1,1,1,1,1,2,1,3,3,1,6.0,3.0,1.0,1.0,Improve,25-29,11.0,0,2,123.2,extremely_fast
+22.0,Apple Music,0.5,No,No,No,Hip hop,No,No,113.0,2,0,0,0,0,3,1,0,1,0,0,2,2,3,0,0,7.0,7.0,0.0,1.0,No effect,20-24,15.0,1,1,120.5,moderate
+16.0,Spotify,5.0,Yes,Yes,Yes,Jazz,Yes,Yes,167.0,2,1,0,0,1,1,3,3,1,0,0,3,1,3,2,0,7.0,7.0,8.0,4.0,Improve,teens under 18,26.0,2,0,121.3,extremely_fast
+17.0,Spotify,5.0,Yes,No,No,Metal,Yes,Yes,95.0,0,2,1,1,0,0,0,0,0,0,3,1,0,0,3,2,4.0,1.0,0.0,0.0,Improve,teens under 18,5.0,0,1,131.0,moderate
+19.0,Spotify,10.0,Yes,No,No,R&B,Yes,Yes,110.0,0,1,3,0,0,2,0,3,0,0,0,1,3,1,0,0,7.0,2.0,1.0,5.0,Improve,teens adult,15.0,0,2,123.8,moderate
+18.0,YouTube Music,2.0,No,No,No,EDM,No,Yes,150.0,2,1,3,0,1,1,1,0,0,2,0,3,1,2,1,3,9.0,0.0,5.0,10.0,Improve,teens adult,24.0,2,1,126.2,extremely_fast
+18.0,YouTube Music,4.0,Yes,No,No,Hip hop,Yes,Yes,93.0,0,0,1,0,0,3,2,2,1,2,0,3,3,3,2,1,2.0,7.0,1.0,1.0,Improve,teens adult,11.0,2,1,119.8,moderate
+19.0,Spotify,5.0,No,Yes,Yes,Rock,Yes,Yes,90.0,1,0,0,1,0,2,3,0,3,1,2,1,2,1,3,1,10.0,8.0,7.0,0.0,Improve,teens adult,25.0,1,2,130.8,moderate
+19.0,Spotify,3.0,Yes,No,No,Jazz,Yes,No,118.0,1,0,1,0,0,3,3,1,2,3,0,2,2,2,1,3,3.0,0.0,0.0,0.0,Improve,teens adult,3.0,2,1,117.0,moderate
+22.0,Spotify,2.0,Yes,No,No,K pop,Yes,Yes,126.0,0,0,3,0,0,2,0,3,0,0,0,2,0,2,3,1,7.0,8.0,5.0,1.0,No effect,20-24,21.0,0,2,126.3,fast
+16.0,Spotify,2.5,Yes,Yes,Yes,Rock,Yes,Yes,103.0,1,2,0,3,0,1,2,0,2,2,1,3,1,0,3,1,2.0,1.0,0.0,0.0,Improve,teens under 18,3.0,2,0,119.9,moderate
+19.0,Spotify,3.0,Yes,No,No,R&B,Yes,Yes,77.0,1,0,2,0,0,3,1,3,1,1,1,3,3,3,1,3,5.0,4.0,0.0,1.0,Improve,teens adult,10.0,0,2,121.4,slow
+37.0,Spotify,1.0,Yes,No,No,Rock,No,No,115.0,1,1,1,1,0,1,1,1,0,1,1,2,1,1,3,0,9.0,10.0,6.0,10.0,No effect,thirties,35.0,0,0,122.9,moderate
+14.0,Spotify,7.0,Yes,Yes,No,Jazz,No,No,110.0,1,0,3,0,0,0,3,0,2,0,0,2,0,0,3,3,2.0,0.0,0.0,0.0,Improve,teens under 18,2.0,1,1,121.9,moderate
+33.0,I do not use a streaming service.,1.0,No,No,No,Metal,No,Yes,140.0,1,2,2,0,0,2,0,0,1,0,3,2,1,2,2,2,5.0,2.0,5.0,1.0,Improve,thirties,13.0,0,3,135.1,fast
+26.0,Spotify,1.0,No,No,No,R&B,No,No,113.0,1,2,0,2,0,3,3,0,0,0,3,3,3,3,3,0,3.0,2.0,0.0,0.0,No effect,25-29,5.0,1,2,122.1,moderate
+32.0,Spotify,3.0,Yes,No,No,Hip hop,No,No,157.0,0,0,1,0,0,3,0,0,2,1,0,2,3,3,1,0,2.0,0.0,7.0,0.0,No effect,thirties,9.0,0,1,120.1,extremely_fast
+30.0,Spotify,5.0,Yes,Yes,No,Metal,Yes,No,160.0,2,1,0,2,0,1,0,0,0,0,3,2,0,0,3,0,7.0,6.0,6.0,2.0,No effect,thirties,21.0,1,1,131.0,extremely_fast
+43.0,I do not use a streaming service.,6.0,Yes,Yes,Yes,Video game music,Yes,Yes,109.0,2,1,3,1,1,1,1,2,1,3,1,2,1,0,2,3,5.0,4.0,8.0,3.0,No effect,forties,20.0,2,1,122.7,moderate
+24.0,Spotify,4.0,Yes,No,No,Classical,Yes,Yes,175.0,3,1,1,0,0,1,1,0,0,0,2,3,1,0,3,1,4.0,6.0,5.0,3.0,Improve,20-24,18.0,1,1,120.1,extremely_fast
+36.0,YouTube Music,1.0,Yes,No,No,Rock,Yes,No,110.0,2,1,0,0,0,0,0,0,0,0,1,2,1,1,3,0,6.0,2.0,3.0,1.0,Improve,thirties,12.0,1,0,122.9,moderate
+19.0,YouTube Music,4.0,Yes,No,No,Video game music,Yes,No,162.0,1,0,1,0,0,1,2,0,0,2,0,2,0,0,1,3,8.0,2.0,1.0,6.0,Improve,teens adult,17.0,2,0,122.4,extremely_fast
+22.0,Spotify,10.0,Yes,No,No,Metal,Yes,Yes,140.0,1,3,0,3,0,0,1,0,0,0,3,1,0,1,2,2,9.0,6.0,0.0,6.0,Improve,20-24,21.0,0,1,123.9,fast
+20.0,Spotify,3.0,No,No,Yes,EDM,Yes,Yes,121.0,1,2,3,0,0,2,0,1,0,2,0,2,0,2,2,1,0.0,3.0,7.0,0.0,Improve,20-24,10.0,1,2,131.8,fast
+31.0,Spotify,2.0,No,No,No,Rock,Yes,No,120.0,1,1,0,1,0,1,1,0,0,1,2,2,0,1,3,0,8.0,9.0,6.0,2.0,Improve,thirties,25.0,0,1,122.9,fast
+19.0,Spotify,4.0,Yes,No,No,Metal,Yes,Yes,105.0,2,0,0,0,0,2,2,1,0,0,2,2,1,2,3,1,4.0,1.0,1.0,1.0,Improve,teens adult,7.0,2,2,129.0,moderate
+15.0,Spotify,8.0,Yes,No,No,Rock,No,No,120.0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,3,1,8.0,7.0,5.0,0.0,Improve,teens under 18,20.0,0,1,122.9,fast
+18.0,Spotify,2.0,No,Yes,Yes,Metal,Yes,Yes,149.0,0,0,1,0,0,2,0,0,0,0,3,2,0,1,3,1,3.0,4.0,6.0,1.0,Improve,teens adult,14.0,0,2,131.0,fast
+25.0,I do not use a streaming service.,0.5,No,Yes,No,Classical,No,No,140.0,3,0,0,0,1,0,2,0,2,0,1,1,1,0,3,2,1.0,1.0,3.0,1.0,Improve,25-29,6.0,2,0,120.7,fast
+17.0,Apple Music,5.0,Yes,No,No,Metal,Yes,No,134.0,0,1,0,0,0,2,0,0,0,1,3,2,2,2,3,1,10.0,8.0,6.0,7.0,No effect,teens under 18,31.0,0,2,131.0,fast
+28.0,YouTube Music,1.0,No,No,No,Rock,Yes,No,120.0,1,0,3,2,0,0,0,0,0,1,1,1,0,0,2,1,6.0,6.0,2.0,0.0,No effect,25-29,14.0,0,1,127.3,fast
+20.0,Spotify,3.0,Yes,No,No,Rock,Yes,Yes,170.0,0,0,1,0,0,1,0,2,0,1,1,2,2,1,3,2,6.0,7.0,0.0,0.0,Improve,20-24,13.0,0,0,122.9,extremely_fast
+21.0,YouTube Music,2.0,Yes,Yes,No,Metal,Yes,Yes,107.0,2,1,0,3,0,0,1,0,0,1,3,1,0,1,2,3,8.0,4.0,10.0,0.0,No effect,20-24,22.0,1,1,127.0,moderate
+41.0,Spotify,3.0,Yes,No,No,Pop,No,Yes,113.0,2,0,1,1,1,3,2,1,1,0,1,3,3,2,3,0,9.0,7.0,6.0,2.0,No effect,forties,24.0,2,1,118.9,moderate
+20.0,Spotify,2.0,Yes,Yes,No,Pop,Yes,No,126.0,0,0,2,0,0,1,0,0,0,0,0,3,0,1,3,2,7.0,4.0,6.0,5.0,Improve,20-24,22.0,0,1,120.0,fast
+34.0,Other streaming service,4.0,Yes,No,No,Metal,Yes,Yes,161.0,1,0,2,0,0,2,1,0,0,0,3,1,0,2,2,1,6.0,7.0,0.0,0.0,No effect,thirties,13.0,0,3,135.1,extremely_fast
+21.0,YouTube Music,3.0,Yes,No,Yes,Metal,Yes,No,140.0,2,1,0,2,0,0,0,0,0,0,3,3,0,0,3,1,10.0,0.0,10.0,10.0,Improve,20-24,30.0,1,1,127.9,fast
+23.0,Spotify,2.0,Yes,No,No,Metal,Yes,Yes,100.0,1,0,0,1,0,0,0,0,0,2,3,1,0,0,2,1,6.0,3.0,0.0,1.0,Improve,20-24,10.0,1,1,135.1,moderate
+16.0,Spotify,3.0,No,No,No,Pop,No,No,140.0,1,0,0,0,0,2,1,0,1,0,0,3,2,1,0,0,7.0,5.0,5.0,3.0,Improve,teens under 18,20.0,0,1,118.6,fast
+19.0,YouTube Music,4.0,Yes,No,No,Pop,Yes,No,156.0,1,1,1,1,0,2,1,1,0,0,1,3,1,2,2,2,7.0,10.0,5.0,0.0,Improve,teens adult,22.0,0,1,118.6,extremely_fast
+22.0,Spotify,2.0,Yes,Yes,No,Rock,Yes,Yes,98.0,2,0,0,1,0,2,2,0,2,1,1,3,2,2,3,2,8.0,6.0,0.0,0.0,Improve,20-24,14.0,2,1,121.4,moderate
+19.0,Spotify,8.0,Yes,No,No,K pop,Yes,Yes,100.0,3,0,1,0,0,2,2,3,0,3,0,3,2,1,1,1,4.0,3.0,0.0,0.0,Improve,teens adult,7.0,3,1,120.6,moderate
+23.0,Spotify,4.0,Yes,No,No,Hip hop,Yes,Yes,78.0,1,0,2,2,0,3,1,3,2,3,1,3,3,3,2,2,7.0,6.0,7.0,5.0,Improve,20-24,25.0,1,2,119.8,slow
+23.0,Spotify,2.0,No,Yes,No,Metal,No,Yes,117.0,0,0,1,0,0,1,1,0,0,0,3,0,0,1,2,0,7.0,3.0,2.0,3.0,Improve,20-24,15.0,0,1,135.1,moderate
+22.0,Spotify,1.0,No,No,Yes,EDM,Yes,No,128.0,0,0,3,0,1,2,2,0,0,0,0,3,3,2,2,0,2.0,7.0,5.0,0.0,Improve,20-24,14.0,1,2,125.3,fast
+17.0,Spotify,3.0,Yes,No,No,Rock,Yes,No,130.0,1,2,2,2,0,1,1,1,0,3,2,3,3,2,3,2,7.0,8.0,6.0,5.0,Improve,teens under 18,26.0,1,2,119.5,fast
+28.0,Spotify,0.5,No,No,No,Folk,Yes,No,130.0,1,2,0,3,0,1,1,0,0,0,0,2,0,1,3,1,4.0,7.0,1.0,0.0,Improve,25-29,12.0,0,0,117.9,fast
+23.0,Spotify,2.0,No,No,No,Rock,Yes,Yes,120.0,0,0,0,0,0,2,0,2,0,0,3,3,0,2,3,2,7.0,8.0,5.0,1.0,No effect,20-24,21.0,0,2,124.8,fast
+19.0,Apple Music,3.0,Yes,No,No,Rock,Yes,Yes,126.0,0,2,2,0,0,3,0,0,0,1,1,1,1,2,3,2,5.0,2.0,8.0,6.0,Improve,teens adult,21.0,0,2,120.5,fast
+17.0,Spotify,2.0,Yes,Yes,Yes,Hip hop,Yes,Yes,122.0,1,0,2,2,0,3,2,1,1,1,3,1,1,3,3,0,10.0,7.0,4.0,2.0,Improve,teens under 18,23.0,1,3,123.9,fast
+21.0,YouTube Music,1.0,No,No,No,Rock,Yes,No,179.0,0,1,0,1,0,2,1,0,0,3,2,1,2,2,3,1,6.0,5.0,0.0,0.0,No effect,20-24,11.0,1,2,120.0,extremely_fast
+29.0,Other streaming service,5.0,Yes,No,No,Jazz,Yes,Yes,120.0,1,0,0,1,0,0,3,0,1,1,1,0,2,0,3,2,7.0,2.0,3.0,1.0,Improve,25-29,13.0,1,0,118.5,fast
+22.0,Spotify,10.0,No,Yes,Yes,EDM,No,Yes,128.0,2,2,3,3,0,0,1,0,0,0,1,0,1,0,2,2,4.0,7.0,7.0,3.0,Improve,20-24,21.0,1,1,126.4,fast
+18.0,Spotify,4.0,Yes,Yes,Yes,Pop,Yes,Yes,130.0,2,1,2,1,0,1,2,2,2,2,3,3,1,1,3,3,4.0,5.0,6.0,5.0,Improve,teens adult,20.0,3,2,123.5,fast
+13.0,Spotify,2.0,Yes,Yes,Yes,Rock,Yes,No,120.0,1,0,2,3,1,2,0,0,0,2,2,3,1,3,3,3,7.0,10.0,5.0,6.0,Worsen,teens under 18,28.0,1,3,122.0,fast
+24.0,Spotify,1.0,No,No,No,Metal,Yes,No,86.0,2,0,1,1,0,1,0,0,0,0,3,2,2,2,3,1,6.0,4.0,5.0,0.0,Improve,20-24,15.0,1,1,131.0,moderate
+35.0,Spotify,6.0,Yes,No,No,Rock,Yes,Yes,166.0,2,1,2,3,0,1,2,1,1,2,2,2,1,1,3,2,4.0,1.0,3.0,1.0,No effect,thirties,9.0,3,2,120.4,extremely_fast
+29.0,YouTube Music,1.0,Yes,Yes,No,Video game music,Yes,No,110.0,2,0,0,1,2,0,1,0,0,0,0,2,1,0,2,2,6.0,6.0,1.0,2.0,Improve,25-29,15.0,1,0,122.4,moderate
+28.0,Spotify,6.0,Yes,No,No,Rock,No,No,144.0,2,1,0,2,0,1,1,0,1,1,2,2,2,1,3,3,10.0,8.0,7.0,1.0,Improve,25-29,26.0,1,1,122.7,fast
+32.0,Spotify,7.0,Yes,No,No,Pop,Yes,Yes,120.0,2,0,1,0,0,2,1,0,0,1,1,3,3,3,3,3,10.0,8.0,2.0,8.0,Improve,thirties,28.0,1,1,121.9,fast
+32.0,Other streaming service,1.0,No,No,No,EDM,Yes,No,120.0,1,0,3,1,1,2,1,0,1,1,0,2,1,1,1,0,3.0,6.0,2.0,0.0,No effect,thirties,11.0,0,2,131.8,fast
+21.0,Spotify,3.0,Yes,Yes,No,Rock,Yes,No,160.0,0,0,0,3,0,2,0,0,0,2,3,1,0,1,3,2,8.0,9.0,2.0,0.0,Improve,20-24,19.0,1,2,124.1,extremely_fast
+18.0,Spotify,2.0,Yes,Yes,No,Video game music,No,Yes,101.0,0,0,2,0,0,1,0,0,0,1,0,1,0,0,2,3,8.0,3.0,8.0,7.0,Improve,teens adult,26.0,0,1,122.4,moderate
+19.0,Spotify,3.0,Yes,Yes,No,Classical,Yes,No,122.0,3,1,0,0,0,0,0,1,0,2,0,3,0,0,1,2,3.0,3.0,1.0,2.0,Improve,teens adult,9.0,2,0,119.2,fast
+18.0,Apple Music,2.0,Yes,Yes,No,Pop,Yes,Yes,120.0,1,1,0,0,0,1,0,3,1,1,1,3,1,1,1,0,6.0,5.0,2.0,0.0,Improve,teens adult,13.0,0,0,120.8,fast
+16.0,YouTube Music,3.0,Yes,No,Yes,Pop,No,No,120.0,1,2,2,0,0,1,0,2,0,2,0,3,0,1,3,1,0.0,0.0,4.0,0.0,No effect,teens under 18,4.0,1,1,120.0,fast
+25.0,Spotify,1.5,Yes,No,No,Pop,No,No,120.0,2,1,1,2,0,1,0,0,0,1,1,3,3,1,3,0,6.0,5.0,0.0,2.0,Improve,25-29,13.0,1,0,119.7,fast
+17.0,Spotify,4.0,Yes,No,No,Lofi,Yes,Yes,79.0,3,0,0,0,2,2,1,2,0,3,0,3,2,2,1,3,3.0,8.0,0.0,0.0,Improve,teens under 18,11.0,2,1,117.8,slow
+16.0,Spotify,2.0,Yes,No,No,Rap,Yes,Yes,126.0,3,0,0,0,0,3,0,2,0,1,0,3,3,3,0,2,1.0,8.0,0.0,0.0,No effect,teens under 18,9.0,1,1,122.2,fast
+27.0,Spotify,10.0,Yes,No,No,Metal,Yes,Yes,140.0,2,0,2,0,0,2,1,0,0,1,3,3,1,2,3,1,5.0,6.0,6.0,3.0,Improve,25-29,20.0,1,3,127.9,fast
+53.0,Spotify,7.0,Yes,No,No,Pop,Yes,Yes,92.0,3,2,3,1,1,2,2,1,2,1,1,3,3,1,3,1,0.0,0.0,0.0,0.0,Improve,pre_retirement,0.0,2,2,121.7,moderate
+25.0,Spotify,1.0,Yes,No,No,EDM,No,No,107.0,0,0,3,0,0,1,0,1,0,1,0,0,0,0,1,1,0.0,8.0,0.0,0.0,Improve,25-29,8.0,0,1,131.8,moderate
+34.0,Spotify,2.0,No,No,No,Metal,No,No,120.0,0,0,1,0,0,0,0,0,0,0,3,1,0,0,2,0,3.0,7.0,0.0,0.0,Improve,thirties,10.0,0,1,135.1,fast
+22.0,Other streaming service,6.0,Yes,Yes,Yes,Jazz,Yes,Yes,140.0,2,1,3,3,1,3,3,1,2,2,2,3,3,3,2,2,8.0,8.0,8.0,5.0,Improve,20-24,29.0,3,3,120.4,fast
+17.0,Spotify,2.0,Yes,Yes,Yes,Jazz,Yes,No,94.0,2,0,0,0,0,1,2,0,0,1,2,3,0,1,3,1,5.0,2.0,3.0,4.0,Improve,teens under 18,14.0,2,1,119.2,moderate
+26.0,Spotify,3.0,Yes,Yes,No,Folk,Yes,No,160.0,1,1,0,3,1,1,2,0,0,1,1,2,2,1,2,2,8.0,8.0,3.0,0.0,Improve,25-29,19.0,1,0,115.4,extremely_fast
+19.0,Spotify,8.0,Yes,No,No,EDM,Yes,No,174.0,0,0,3,0,0,2,0,1,0,0,1,2,2,2,2,0,6.0,8.0,8.0,0.0,Improve,teens adult,22.0,0,2,131.8,extremely_fast
+21.0,Spotify,3.0,Yes,No,No,Pop,Yes,Yes,136.0,1,3,2,1,0,3,1,0,3,2,1,3,3,3,2,2,6.0,8.0,6.0,0.0,Worsen,20-24,20.0,1,2,124.8,fast
+32.0,Spotify,3.0,Yes,Yes,Yes,Rock,Yes,Yes,144.0,1,1,2,3,0,2,1,0,2,3,1,2,3,1,3,1,6.0,6.0,7.0,5.0,Improve,thirties,24.0,1,2,118.9,fast
+21.0,I do not use a streaming service.,3.0,Yes,No,No,Rock,No,No,77.0,0,0,0,2,2,2,2,0,1,0,1,1,1,2,3,3,9.0,10.0,3.0,0.0,No effect,20-24,22.0,1,1,122.7,slow
+25.0,Spotify,2.0,No,Yes,No,Pop,No,No,120.0,1,0,0,1,0,2,0,0,2,0,0,3,2,3,3,1,7.0,7.0,5.0,0.0,Improve,25-29,19.0,0,1,122.5,fast
+26.0,Spotify,1.0,No,No,No,Rock,No,No,120.0,1,0,1,1,0,1,1,0,0,1,2,2,1,2,3,0,10.0,7.0,2.0,8.0,No effect,25-29,27.0,0,1,122.9,fast
+21.0,Spotify,2.0,Yes,Yes,No,Metal,Yes,Yes,140.0,1,0,0,2,0,1,0,0,0,1,3,1,0,1,3,2,1.0,3.0,0.0,6.0,No effect,20-24,10.0,0,1,131.0,fast
+17.0,Spotify,2.0,Yes,Yes,No,Pop,No,Yes,120.0,1,0,0,0,0,1,3,3,0,3,0,3,3,2,0,2,5.0,3.0,2.0,1.0,Improve,teens under 18,11.0,2,0,118.7,fast
+28.0,I do not use a streaming service.,4.0,Yes,No,No,Rock,Yes,Yes,120.0,1,2,1,1,0,2,2,1,0,0,2,2,1,1,3,2,6.0,8.0,1.0,6.0,Improve,25-29,21.0,1,2,122.9,fast
+41.0,YouTube Music,4.0,Yes,No,No,Pop,Yes,No,120.0,1,0,2,3,0,3,2,1,1,2,1,3,3,2,3,1,7.0,2.0,0.0,7.0,Improve,forties,16.0,2,2,118.3,fast
+18.0,Spotify,1.0,Yes,Yes,No,Metal,Yes,Yes,140.0,1,0,1,0,0,2,0,0,0,0,3,1,0,2,3,2,6.0,9.0,9.0,0.0,Improve,teens adult,24.0,0,2,131.0,fast
+22.0,Spotify,2.0,No,No,No,R&B,No,Yes,87.0,2,0,0,0,0,1,0,3,3,2,0,2,3,1,1,2,1.0,1.0,4.0,1.0,No effect,20-24,7.0,2,0,131.1,moderate
+18.0,Other streaming service,2.0,Yes,No,No,K pop,No,Yes,122.0,1,0,0,0,0,0,0,3,0,1,0,3,2,0,0,0,0.0,2.0,0.0,0.0,No effect,teens adult,2.0,0,0,123.1,fast
+49.0,Other streaming service,1.0,Yes,No,No,EDM,Yes,No,156.0,2,0,3,2,0,2,1,1,1,2,2,2,1,1,3,2,8.0,8.0,2.0,0.0,Improve,forties,18.0,2,3,128.8,extremely_fast
+21.0,Spotify,3.0,Yes,Yes,Yes,Metal,Yes,No,150.0,2,1,1,2,0,1,1,1,0,2,3,3,1,2,3,2,3.0,3.0,7.0,0.0,No effect,20-24,13.0,2,1,127.9,extremely_fast
+27.0,Spotify,10.0,Yes,No,No,Metal,Yes,Yes,140.0,0,1,2,2,0,2,1,1,1,2,3,3,2,2,3,2,8.0,8.0,3.0,0.0,Improve,25-29,19.0,1,3,127.9,fast
+19.0,Spotify,1.0,No,No,Yes,Metal,Yes,Yes,160.0,0,0,0,0,0,1,0,0,0,2,3,2,1,1,3,0,6.0,4.0,0.0,3.0,No effect,teens adult,13.0,1,1,131.0,extremely_fast
+27.0,Spotify,3.0,Yes,No,No,Metal,Yes,Yes,171.0,2,0,0,1,0,2,1,0,0,1,3,0,1,2,2,1,1.0,0.0,0.0,0.0,Improve,25-29,1.0,1,2,135.1,extremely_fast
+27.0,Spotify,1.5,Yes,No,No,Rock,No,No,95.0,0,0,0,1,0,2,0,1,0,1,3,2,0,2,3,2,5.0,5.0,4.0,4.0,Improve,25-29,18.0,0,2,126.9,moderate
+19.0,Spotify,3.0,Yes,Yes,No,K pop,Yes,Yes,114.0,2,0,0,3,1,1,1,3,0,2,0,2,2,1,2,2,8.0,9.0,6.0,0.0,No effect,teens adult,23.0,2,0,122.0,moderate
+42.0,YouTube Music,2.5,Yes,Yes,No,Rock,No,Yes,148.0,2,1,3,1,0,2,3,0,1,1,2,1,1,1,2,1,8.0,8.0,7.0,6.0,Improve,forties,29.0,2,3,123.6,fast
+60.0,Pandora,2.0,Yes,No,No,Gospel,No,No,119.0,1,2,0,1,3,0,0,0,1,0,0,2,1,0,2,0,3.0,0.0,2.0,0.0,Improve,pre_retirement,5.0,0,0,107.5,moderate
+19.0,YouTube Music,5.0,Yes,No,No,Metal,No,Yes,136.0,2,1,1,2,2,2,1,0,0,3,3,0,0,2,3,2,0.0,5.0,1.0,0.0,No effect,teens adult,6.0,2,2,126.8,fast
+20.0,Apple Music,2.0,Yes,No,No,Pop,Yes,No,141.0,1,0,0,1,0,2,1,0,0,2,0,3,2,1,2,1,6.0,3.0,0.0,0.0,Improve,20-24,9.0,1,1,118.6,fast
+28.0,Spotify,2.0,No,No,Yes,Metal,No,No,146.0,1,0,0,1,0,1,0,0,0,0,3,1,0,0,2,1,1.0,7.0,5.0,1.0,Improve,25-29,14.0,0,1,135.1,fast
+16.0,I do not use a streaming service.,2.0,No,Yes,Yes,Video game music,Yes,No,120.0,2,1,0,0,1,2,2,1,0,2,0,2,2,1,1,2,4.0,2.0,1.0,1.0,No effect,teens under 18,8.0,3,1,122.4,fast
+18.0,Spotify,2.0,Yes,No,No,R&B,No,Yes,164.0,2,0,0,0,0,1,0,0,0,1,0,3,3,1,0,0,5.0,6.0,0.0,1.0,No effect,teens adult,12.0,1,0,118.8,extremely_fast
+34.0,Spotify,1.0,Yes,No,No,Rock,Yes,Yes,120.0,1,0,3,0,0,0,0,3,0,1,3,1,0,0,3,3,1.0,0.0,0.0,0.0,No effect,thirties,1.0,0,2,126.7,fast
+18.0,YouTube Music,1.5,Yes,No,No,Pop,Yes,No,120.0,0,1,1,0,0,1,3,2,1,3,0,3,2,1,1,3,8.0,6.0,5.0,2.0,Improve,teens adult,21.0,2,0,118.0,fast
+21.0,Spotify,5.0,Yes,Yes,Yes,Folk,Yes,Yes,128.0,2,1,0,3,1,1,2,0,1,2,1,3,2,1,3,1,9.0,4.0,0.0,3.0,Improve,20-24,16.0,3,0,118.1,fast
+38.0,Spotify,0.5,No,No,No,Rock,Yes,Yes,120.0,0,0,1,2,1,2,1,0,2,0,0,3,2,1,3,0,4.0,6.0,6.0,4.0,Improve,thirties,20.0,0,1,121.4,fast
+17.0,Spotify,2.0,Yes,No,No,Rock,No,Yes,120.0,0,1,1,1,0,0,0,1,0,2,1,2,0,1,3,3,7.0,3.0,1.0,5.0,Improve,teens under 18,16.0,1,0,122.7,fast
+35.0,Other streaming service,0.5,No,No,No,Pop,No,No,120.0,2,0,0,2,0,0,0,0,0,1,0,3,1,0,2,1,10.0,3.0,1.0,0.0,No effect,thirties,14.0,1,0,118.6,fast
+21.0,I do not use a streaming service.,2.0,Yes,No,No,Rock,No,Yes,101.0,1,2,1,2,0,3,1,0,3,3,3,3,3,3,3,1,8.0,8.0,3.0,0.0,Improve,20-24,19.0,1,2,126.6,moderate
+25.0,Apple Music,2.5,Yes,No,No,R&B,No,No,116.0,1,0,0,1,1,2,1,0,3,3,1,2,3,2,2,2,7.0,6.0,5.0,4.0,Improve,25-29,22.0,1,1,128.4,moderate
+18.0,Spotify,2.0,Yes,Yes,No,K pop,Yes,Yes,98.0,3,0,0,1,1,2,2,3,1,3,0,2,3,2,0,1,7.0,2.0,3.0,5.0,Improve,teens adult,17.0,3,1,120.7,moderate
+16.0,Apple Music,2.0,No,No,No,Pop,Yes,No,145.0,0,2,1,2,1,1,0,1,0,2,0,3,1,1,3,1,10.0,3.5,5.0,10.0,Improve,teens under 18,28.5,1,0,120.0,fast
+19.0,Spotify,1.0,Yes,No,No,Pop,Yes,Yes,94.0,1,2,1,1,0,2,1,0,0,1,1,3,2,2,3,0,7.0,5.0,1.0,2.0,Improve,teens adult,15.0,0,1,120.0,moderate
+31.0,Spotify,4.0,Yes,Yes,No,Classical,No,Yes,103.0,3,0,1,0,1,2,1,0,2,0,2,1,0,2,2,0,6.0,8.0,9.0,5.0,Improve,thirties,28.0,1,2,119.6,moderate
+26.0,Spotify,5.0,Yes,No,No,Rock,No,No,120.0,0,0,2,0,0,0,0,0,0,0,0,3,0,0,3,0,2.0,9.0,2.0,1.0,No effect,25-29,14.0,0,1,121.4,fast
+16.0,Spotify,2.0,Yes,Yes,Yes,Rock,No,No,112.0,1,0,3,1,0,0,0,0,0,1,1,2,1,0,3,3,7.0,4.0,10.0,2.0,Improve,teens under 18,23.0,0,1,125.0,moderate
+26.0,Spotify,2.0,Yes,Yes,No,Rock,Yes,Yes,120.0,3,1,1,3,0,1,0,0,0,2,2,1,0,1,3,3,7.0,5.0,6.0,0.0,Improve,25-29,18.0,2,1,120.6,fast
+17.0,Spotify,2.0,Yes,No,No,R&B,Yes,Yes,118.0,1,1,0,0,2,2,1,3,0,1,0,2,3,2,0,1,6.0,1.0,0.0,0.0,Improve,teens under 18,7.0,0,1,121.1,moderate
+22.0,Spotify,1.0,Yes,Yes,No,Video game music,Yes,Yes,120.0,2,2,1,3,0,0,0,1,1,0,3,1,0,0,3,3,3.0,6.0,1.0,1.0,Improve,20-24,11.0,1,1,123.6,fast
+20.0,Apple Music,4.0,Yes,No,No,R&B,Yes,Yes,113.0,2,1,0,1,0,2,2,1,0,1,0,2,3,3,3,1,9.0,10.0,3.0,0.0,Improve,20-24,22.0,2,1,122.7,moderate
+30.0,Spotify,1.0,No,Yes,No,Rock,Yes,No,162.0,2,2,1,2,0,1,0,0,0,0,2,2,0,1,3,0,8.0,5.0,8.0,9.0,Improve,thirties,30.0,1,1,122.9,extremely_fast
+26.0,Other streaming service,4.0,Yes,No,No,Pop,No,No,120.0,1,3,1,0,0,1,1,0,2,0,1,3,1,0,2,0,8.0,7.0,7.0,3.0,Improve,25-29,25.0,0,0,115.7,fast
+19.0,Spotify,5.0,Yes,No,No,Rock,Yes,Yes,111.0,2,1,0,2,1,1,2,1,1,1,3,2,1,1,3,2,9.0,9.0,9.0,3.0,No effect,teens adult,30.0,2,1,126.9,moderate
+21.0,Other,5.0,Yes,No,No,Country,Yes,No,85.0,0,3,1,2,0,1,0,0,0,0,2,2,0,1,3,0,9.0,8.0,9.0,7.0,Improve,20-24,33.0,0,1,114.3,moderate
+33.0,Spotify,7.0,Yes,No,No,Rock,Yes,Yes,134.0,1,2,2,2,1,3,1,1,2,2,2,3,3,3,3,2,9.0,3.0,7.0,8.0,Improve,thirties,27.0,1,3,121.5,fast
+28.0,YouTube Music,2.0,Yes,No,No,Rock,Yes,No,172.0,0,1,1,1,0,2,0,1,0,2,1,2,3,1,3,1,10.0,8.0,6.0,2.0,Improve,25-29,26.0,1,1,121.6,extremely_fast
+25.0,Spotify,3.0,Yes,No,No,Rock,Yes,Yes,180.0,1,0,2,2,0,1,0,1,0,2,3,2,1,1,3,2,9.0,6.0,3.0,0.0,Improve,25-29,18.0,1,2,126.9,extremely_fast
+22.0,YouTube Music,2.0,Yes,No,No,Pop,No,No,120.0,1,0,1,1,1,1,1,0,0,1,0,3,1,1,2,2,7.0,7.0,8.0,3.0,Improve,20-24,25.0,0,0,118.6,fast
+19.0,Spotify,3.0,Yes,No,Yes,Rock,Yes,Yes,76.0,2,0,2,2,0,0,0,0,0,1,1,1,1,0,3,1,9.0,10.0,4.0,0.0,Improve,teens adult,23.0,1,1,122.9,slow
+44.0,Other streaming service,3.0,Yes,No,No,Folk,Yes,Yes,130.0,1,1,1,3,1,2,1,0,1,2,0,1,2,2,1,2,9.0,9.0,8.0,2.0,Improve,forties,28.0,1,1,115.4,fast
+22.0,Spotify,3.0,Yes,No,No,Rock,No,No,120.0,0,1,0,3,0,1,0,0,0,0,3,1,0,0,3,1,9.0,10.0,3.0,9.0,Improve,20-24,31.0,0,1,124.1,fast
+26.0,Spotify,5.0,Yes,Yes,Yes,Metal,Yes,Yes,109.0,2,1,3,1,1,1,2,2,0,1,3,2,2,1,2,2,10.0,9.0,8.0,8.0,Improve,25-29,35.0,2,2,134.0,moderate
+23.0,I do not use a streaming service.,6.0,Yes,No,Yes,Classical,No,Yes,96.0,3,0,0,1,0,0,0,0,1,0,0,1,0,0,0,1,6.0,5.0,6.0,8.0,Improve,20-24,25.0,1,0,119.6,moderate
+17.0,Spotify,2.0,No,No,No,R&B,No,Yes,148.0,2,0,1,0,0,3,1,1,0,1,0,2,3,2,0,1,8.0,6.0,10.0,3.0,Improve,teens under 18,27.0,1,1,117.9,fast
+42.0,YouTube Music,2.0,No,No,No,Metal,Yes,No,140.0,2,1,2,1,0,2,0,0,0,0,3,2,2,2,3,1,8.0,3.0,6.0,4.0,Improve,forties,21.0,1,3,131.0,fast
+30.0,Spotify,1.0,No,Yes,No,Rock,Yes,No,129.0,1,0,1,1,0,1,1,0,1,1,1,3,1,1,3,1,4.0,2.0,1.0,3.0,Improve,thirties,10.0,0,0,121.4,fast
+35.0,Spotify,1.0,Yes,No,No,Pop,Yes,Yes,81.0,2,1,2,1,0,2,1,1,0,0,0,3,1,1,2,1,2.0,1.0,1.0,1.0,No effect,thirties,5.0,1,2,118.6,slow
+20.0,Spotify,3.0,No,No,No,Rock,Yes,No,136.0,0,3,0,0,0,0,0,0,0,0,3,3,0,2,3,1,10.0,10.0,7.0,3.0,Improve,20-24,30.0,0,1,121.9,fast
+18.0,Spotify,3.0,Yes,No,No,Rap,Yes,Yes,155.0,1,0,0,2,0,3,2,0,2,2,0,3,1,3,3,3,8.0,9.0,0.0,0.0,Improve,teens adult,17.0,2,1,123.3,extremely_fast
+21.0,Spotify,1.0,No,No,No,Pop,No,Yes,120.0,0,0,2,0,0,1,0,2,2,1,0,3,2,1,2,1,4.0,9.0,6.0,2.0,No effect,20-24,21.0,0,1,118.6,fast
+19.0,Spotify,6.0,Yes,No,No,Rock,Yes,Yes,120.0,0,0,1,3,0,1,1,0,3,1,2,3,1,2,3,1,4.0,2.0,0.0,0.0,Improve,teens adult,6.0,0,1,128.2,fast
+37.0,Spotify,4.0,Yes,No,No,Rock,Yes,No,97.0,1,2,2,2,0,3,1,0,0,2,2,2,3,3,3,0,9.0,2.0,7.0,7.0,Improve,thirties,25.0,1,3,122.1,moderate
+31.0,Spotify,2.0,Yes,No,No,Metal,Yes,Yes,92.0,2,1,1,2,0,2,1,1,2,3,3,2,2,2,3,3,8.0,6.0,7.0,5.0,Improve,thirties,26.0,2,2,125.9,moderate
+29.0,Spotify,2.0,Yes,Yes,No,Folk,Yes,Yes,100.0,0,2,1,3,2,1,1,1,1,1,2,1,3,1,3,1,6.0,5.0,4.0,2.0,Improve,25-29,17.0,0,1,118.2,moderate
+20.0,Spotify,3.0,Yes,No,No,Rock,Yes,Yes,120.0,2,1,1,3,0,1,2,0,0,2,2,3,1,1,3,2,8.0,5.0,2.0,3.0,Improve,20-24,18.0,3,1,119.9,fast
+36.0,I do not use a streaming service.,8.0,Yes,Yes,Yes,Video game music,No,Yes,143.0,2,1,2,1,0,1,1,0,0,0,3,1,0,1,2,3,7.0,6.0,6.0,1.0,No effect,thirties,20.0,1,2,126.6,fast
+18.0,Spotify,3.0,Yes,Yes,No,Rock,Yes,No,118.0,2,0,0,1,0,0,2,0,0,1,1,2,0,0,3,1,10.0,2.0,0.0,0.0,Improve,teens adult,12.0,2,0,122.9,moderate
+18.0,Spotify,2.0,Yes,No,No,K pop,Yes,Yes,130.0,1,0,2,0,0,0,0,3,0,0,1,2,0,0,1,0,6.0,0.0,0.0,0.0,Improve,teens adult,6.0,0,1,125.3,fast
+25.0,Spotify,7.0,Yes,No,No,Pop,No,Yes,120.0,0,2,3,1,1,2,0,3,1,1,1,3,2,2,1,2,2.0,0.0,1.0,0.0,Improve,25-29,3.0,0,2,123.6,fast
+18.0,YouTube Music,12.0,Yes,No,No,K pop,Yes,Yes,126.0,0,0,0,0,0,2,0,3,2,0,1,3,2,2,1,0,3.0,7.0,5.0,2.0,Improve,teens adult,17.0,0,1,123.1,fast
+31.0,YouTube Music,9.0,Yes,No,No,Pop,Yes,Yes,158.0,1,1,1,2,0,0,1,1,1,3,2,3,0,1,2,2,9.0,0.0,2.0,0.0,Improve,thirties,11.0,1,1,117.2,extremely_fast
+17.0,Spotify,2.0,Yes,No,No,Pop,Yes,Yes,160.0,1,1,1,1,1,2,2,2,0,0,1,3,1,2,2,0,5.0,4.0,1.0,1.0,Improve,teens under 18,11.0,1,1,118.6,extremely_fast
+21.0,Spotify,1.0,Yes,No,No,Folk,No,Yes,115.0,0,1,0,3,0,1,2,0,0,1,1,1,0,0,2,3,8.0,4.0,0.0,1.0,Improve,20-24,13.0,1,0,117.8,moderate
+30.0,Other streaming service,1.0,No,No,No,Country,No,No,119.0,0,3,0,0,0,2,0,0,0,0,0,3,1,2,2,1,8.0,10.0,2.0,0.0,Improve,thirties,20.0,0,1,112.9,moderate
+40.0,Apple Music,2.0,Yes,No,No,Metal,Yes,Yes,120.0,2,0,2,1,0,1,1,0,0,1,3,1,1,1,3,0,3.0,6.0,2.0,1.0,No effect,forties,12.0,1,2,131.0,fast
+64.0,I do not use a streaming service.,4.0,Yes,No,No,Rock,No,No,120.0,2,1,2,1,0,1,2,1,1,0,1,2,1,1,2,1,4.0,4.0,2.0,1.0,Improve,pre_retirement,11.0,2,1,122.9,fast
+14.0,Spotify,2.0,Yes,Yes,No,Rock,Yes,Yes,136.0,1,0,0,2,0,2,1,0,0,0,2,3,1,2,3,1,7.0,5.0,2.0,6.0,Improve,teens under 18,20.0,0,2,121.4,fast
+26.0,YouTube Music,6.0,Yes,No,No,Rock,Yes,No,104.0,2,0,0,1,0,1,2,0,0,0,1,2,0,1,3,0,3.0,2.0,0.0,0.0,No effect,25-29,5.0,2,0,122.9,moderate
+35.0,Spotify,4.0,Yes,Yes,Yes,Country,Yes,Yes,90.0,1,3,1,2,1,3,2,1,2,2,2,2,1,2,3,0,9.0,9.0,5.0,1.0,Improve,thirties,24.0,2,2,114.6,moderate
+33.0,Other streaming service,1.0,No,No,No,Rock,No,No,120.0,0,0,0,0,0,2,0,0,1,0,0,2,1,1,3,0,3.0,10.0,4.0,1.0,No effect,thirties,18.0,0,1,122.9,fast
+30.0,Spotify,6.0,Yes,No,No,Folk,Yes,Yes,89.0,2,1,0,3,1,0,1,0,0,2,2,1,0,0,3,0,9.0,0.0,5.0,0.0,No effect,thirties,14.0,2,1,117.9,moderate
+31.0,Spotify,2.0,No,Yes,No,Metal,Yes,No,95.0,2,2,2,1,0,1,0,0,0,1,3,3,1,2,3,2,7.0,6.0,6.0,5.0,Improve,thirties,24.0,1,2,127.9,moderate
+27.0,Spotify,5.0,Yes,No,Yes,Folk,Yes,Yes,140.0,1,0,2,3,2,1,1,2,2,3,2,3,2,0,3,3,0.0,9.0,4.0,0.0,Improve,25-29,13.0,1,2,118.2,fast
+53.0,I do not use a streaming service.,1.5,No,No,No,Pop,Yes,Yes,92.0,1,0,3,2,0,2,0,1,2,0,0,3,1,2,2,0,2.0,2.0,2.0,1.0,No effect,pre_retirement,7.0,0,2,123.0,moderate
+23.0,Spotify,5.0,Yes,Yes,Yes,Metal,Yes,Yes,120.0,2,1,0,1,0,0,1,0,0,0,3,1,0,0,3,0,6.0,9.0,2.0,1.0,Improve,20-24,18.0,1,1,131.0,fast
+25.0,Spotify,2.0,Yes,No,Yes,EDM,Yes,No,128.0,1,1,3,1,0,2,2,2,0,1,3,3,1,2,3,1,6.0,4.0,1.0,0.0,Improve,25-29,11.0,1,3,128.0,fast
+16.0,Apple Music,4.0,Yes,Yes,No,K pop,Yes,Yes,140.0,3,1,1,2,1,3,2,3,2,3,3,3,2,1,2,1,8.0,9.0,4.0,0.0,Improve,teens under 18,21.0,3,2,122.0,fast
+18.0,Spotify,2.0,Yes,Yes,Yes,Rock,Yes,No,120.0,0,0,1,1,0,1,0,0,0,1,0,1,0,1,3,0,6.0,7.0,4.0,3.0,Improve,teens adult,20.0,0,0,122.9,fast
+29.0,Spotify,5.0,Yes,Yes,Yes,Classical,Yes,Yes,118.0,3,0,0,1,0,0,1,0,0,0,1,2,1,0,2,0,7.0,2.0,2.0,0.0,Improve,25-29,11.0,1,0,119.6,moderate
+31.0,YouTube Music,6.0,Yes,No,No,EDM,Yes,Yes,136.0,1,1,3,1,0,2,0,0,0,1,1,2,2,2,2,2,8.0,6.0,5.0,6.0,No effect,thirties,25.0,0,2,131.8,fast
+31.0,Spotify,1.0,No,No,No,Rock,No,Yes,132.0,2,1,0,0,0,1,0,0,2,0,2,1,1,1,3,2,3.0,10.0,0.0,0.0,Worsen,thirties,13.0,1,1,122.9,fast
+38.0,Spotify,6.0,Yes,Yes,No,Pop,Yes,Yes,107.0,3,2,2,2,2,3,3,1,2,2,1,3,3,3,2,0,9.0,4.0,9.0,7.0,Improve,thirties,29.0,3,2,119.7,moderate
+17.0,Spotify,4.0,No,Yes,No,Classical,Yes,Yes,135.0,3,0,0,0,0,3,3,1,3,2,2,1,2,1,0,1,7.0,9.0,2.0,8.0,Worsen,teens under 18,26.0,3,2,126.5,fast
+25.0,Apple Music,2.0,No,No,No,EDM,No,Yes,171.0,0,2,3,1,0,0,0,0,0,0,1,2,0,0,3,1,10.0,3.0,1.0,4.0,Improve,25-29,18.0,0,1,128.8,extremely_fast
+20.0,Spotify,2.0,No,Yes,Yes,Metal,No,Yes,140.0,1,0,0,0,0,0,1,0,0,0,3,0,0,1,2,1,0.0,0.0,0.0,1.0,No effect,20-24,1.0,0,1,135.1,fast
+15.0,Spotify,2.0,Yes,No,No,EDM,No,No,171.0,0,0,3,0,0,2,0,0,0,0,0,1,1,2,0,1,9.0,6.0,1.0,7.0,No effect,teens under 18,23.0,0,2,131.8,extremely_fast
+16.0,Spotify,4.0,Yes,No,Yes,Lofi,Yes,No,85.0,1,1,3,1,0,1,1,0,0,3,1,2,0,1,1,3,7.0,1.0,3.0,5.0,Improve,teens under 18,16.0,1,1,120.7,moderate
+20.0,Spotify,2.0,Yes,Yes,No,EDM,No,Yes,174.0,2,0,3,0,0,2,0,2,0,0,0,2,0,0,2,2,9.0,7.0,5.0,7.0,Improve,20-24,28.0,1,2,131.8,extremely_fast
+23.0,Other streaming service,6.0,Yes,No,No,Rap,Yes,Yes,87.0,0,0,2,2,0,1,0,2,2,0,0,3,3,2,1,0,3.0,1.0,2.0,7.0,Improve,20-24,13.0,0,1,122.6,moderate
+22.0,Spotify,3.0,Yes,No,No,Hip hop,Yes,Yes,77.0,1,0,2,1,0,3,1,0,2,1,2,3,2,3,2,1,6.0,6.0,8.0,0.0,Improve,20-24,20.0,0,3,120.0,slow
+15.0,I do not use a streaming service.,5.0,Yes,No,No,Rock,Yes,Yes,126.0,1,0,3,1,0,0,0,0,0,2,1,3,0,0,3,2,10.0,6.0,0.0,4.0,Improve,teens under 18,20.0,1,1,124.0,fast
+17.0,I do not use a streaming service.,0.5,Yes,Yes,No,Video game music,No,Yes,136.0,1,2,2,0,0,0,1,0,0,0,1,2,1,1,2,3,6.0,3.0,1.0,1.0,Improve,teens under 18,11.0,0,1,122.4,fast
+22.0,YouTube Music,1.0,Yes,No,No,Video game music,Yes,Yes,80.0,1,0,1,2,0,1,0,0,0,2,0,1,0,0,1,3,3.0,3.0,0.0,7.0,No effect,20-24,13.0,1,0,122.4,slow
+21.0,Spotify,10.0,Yes,No,No,Metal,Yes,Yes,92.0,0,1,1,0,0,3,0,1,0,0,3,2,2,3,3,2,9.0,10.0,2.0,2.0,No effect,20-24,23.0,0,2,127.8,moderate
+19.0,Spotify,2.0,Yes,No,No,Pop,No,Yes,120.0,1,0,2,1,0,1,2,2,2,2,0,3,3,2,3,3,7.0,5.0,0.0,2.0,No effect,teens adult,14.0,2,1,120.3,fast
+32.0,Apple Music,0.5,No,No,No,Classical,Yes,No,118.0,3,0,2,1,0,0,1,0,0,0,2,1,0,0,3,1,3.0,0.0,4.0,4.0,No effect,thirties,11.0,1,2,120.7,moderate
+34.0,YouTube Music,1.0,No,No,No,Rock,No,Yes,138.0,1,0,0,2,0,1,0,0,1,0,0,1,0,2,3,0,9.0,9.0,6.0,4.0,Improve,thirties,28.0,0,0,122.9,fast
+18.0,I do not use a streaming service.,2.0,Yes,Yes,No,Metal,Yes,Yes,150.0,2,0,1,0,0,0,0,0,0,0,3,1,0,1,3,2,5.0,7.0,7.0,2.0,Improve,teens adult,21.0,1,1,131.0,extremely_fast
+21.0,Spotify,3.0,Yes,No,No,Country,Yes,No,108.0,1,3,0,2,1,1,0,0,0,0,1,2,0,0,3,2,0.0,8.0,0.0,5.0,Improve,20-24,13.0,0,0,114.3,moderate
+20.0,Spotify,3.0,No,No,No,Country,Yes,Yes,119.0,1,3,1,2,0,2,1,2,0,0,0,3,3,1,2,0,8.0,4.0,3.0,4.0,Improve,20-24,19.0,0,1,114.4,moderate
+19.0,Spotify,2.0,Yes,No,No,Country,Yes,No,125.0,1,3,1,2,1,0,0,0,1,1,2,1,0,0,2,0,7.0,2.0,0.0,7.0,No effect,teens adult,16.0,0,1,110.0,fast
+25.0,I do not use a streaming service.,1.0,No,No,No,Pop,No,Yes,120.0,1,0,0,1,0,1,1,0,0,1,1,3,1,1,3,3,9.0,9.0,6.0,9.0,No effect,25-29,33.0,0,0,120.6,fast
+31.0,Spotify,8.0,Yes,Yes,No,Classical,Yes,Yes,118.0,3,0,1,1,0,0,2,0,0,0,0,0,0,0,1,1,5.0,7.0,5.0,4.0,Improve,thirties,21.0,2,0,119.6,moderate
+21.0,Spotify,1.0,Yes,Yes,No,Pop,Yes,Yes,85.0,3,1,1,2,0,1,0,2,0,1,3,3,2,3,2,3,5.0,1.0,0.0,0.0,Improve,20-24,6.0,1,1,124.1,moderate
+31.0,YouTube Music,1.0,No,No,Yes,Folk,Yes,Yes,113.0,3,0,0,2,0,1,0,0,1,0,0,0,0,0,2,0,4.0,1.0,3.0,0.0,Improve,thirties,8.0,1,0,117.5,moderate
+20.0,YouTube Music,1.0,No,No,No,Pop,Yes,No,86.0,1,0,0,1,0,0,0,0,0,1,1,3,0,0,2,0,3.0,5.0,3.0,0.0,Improve,20-24,11.0,0,0,118.6,moderate
+19.0,Spotify,5.0,Yes,Yes,No,Rock,Yes,No,141.0,2,1,0,0,0,1,2,0,0,0,3,2,2,1,3,0,2.0,2.0,0.0,6.0,Improve,teens adult,10.0,2,1,126.9,fast
+19.0,Other streaming service,5.0,Yes,No,No,EDM,Yes,Yes,97.0,1,0,3,2,0,2,1,0,2,3,3,1,0,3,2,1,0.0,1.0,3.0,5.0,Improve,teens adult,9.0,1,3,128.6,moderate
+23.0,Spotify,4.0,Yes,No,No,Metal,Yes,Yes,140.0,1,2,2,0,0,2,0,1,0,2,3,3,3,3,3,1,7.0,8.0,6.0,2.0,Improve,20-24,23.0,1,3,126.8,fast
+24.0,I do not use a streaming service.,8.0,Yes,No,Yes,Video game music,Yes,No,120.0,2,1,3,1,1,3,3,1,1,3,3,1,1,2,3,3,6.0,4.0,8.0,8.0,Improve,20-24,26.0,3,3,122.6,fast
+20.0,Other streaming service,0.7,No,No,No,Rock,No,No,144.0,1,0,0,0,0,0,0,0,0,2,1,3,1,0,3,1,5.0,6.0,8.0,2.0,Improve,20-24,21.0,1,0,121.4,fast
+15.0,Spotify,3.0,No,No,No,Video game music,No,No,84.0,1,1,2,1,1,2,1,0,0,3,1,3,0,0,3,3,6.0,6.0,2.0,6.0,No effect,teens under 18,20.0,1,2,120.1,slow
+17.0,Spotify,7.0,Yes,No,No,Hip hop,No,Yes,84.0,0,0,1,0,1,3,0,0,0,1,1,1,1,3,1,1,8.0,9.0,3.0,4.0,Improve,teens under 18,24.0,0,1,120.5,slow
+20.0,I do not use a streaming service.,1.5,No,Yes,Yes,Video game music,No,Yes,120.0,3,0,0,1,1,0,0,0,2,0,0,0,0,0,0,3,8.0,4.0,3.0,3.0,Worsen,20-24,18.0,1,0,121.4,fast
+14.0,Spotify,4.0,Yes,Yes,Yes,Video game music,Yes,Yes,81.0,2,0,2,1,0,1,2,2,0,3,0,2,1,1,0,3,8.0,6.0,5.0,7.0,Improve,teens under 18,26.0,3,1,119.7,slow
+24.0,Spotify,4.0,Yes,No,No,Metal,Yes,Yes,150.0,2,1,0,1,1,1,0,0,0,0,3,2,1,1,3,0,8.0,8.0,7.0,7.0,Improve,20-24,30.0,1,1,131.0,extremely_fast
+14.0,Other streaming service,10.0,Yes,No,Yes,Video game music,No,No,95.0,1,0,2,0,0,2,1,0,0,3,2,0,0,2,1,3,5.0,2.0,5.0,0.0,Improve,teens under 18,12.0,1,3,119.7,moderate
+23.0,Spotify,2.0,Yes,Yes,Yes,Rock,Yes,No,138.0,3,0,1,1,0,2,2,0,1,1,1,2,2,2,3,2,6.0,8.0,4.0,2.0,No effect,20-24,20.0,2,1,121.8,fast
+28.0,Apple Music,2.0,Yes,No,No,Rock,No,No,120.0,1,0,0,1,0,0,2,1,0,2,1,2,1,0,3,1,7.0,5.0,2.0,1.0,No effect,25-29,15.0,2,0,122.9,fast
+22.0,Spotify,6.0,Yes,No,No,Jazz,Yes,Yes,140.0,2,1,3,1,1,1,3,2,0,2,2,2,2,1,3,2,8.0,8.0,7.0,1.0,Improve,20-24,24.0,3,2,121.8,fast
+25.0,Spotify,0.5,Yes,Yes,No,Rock,Yes,Yes,139.0,1,0,3,0,0,1,0,1,0,0,1,2,1,1,3,2,10.0,2.0,0.0,0.0,Improve,25-29,12.0,0,1,125.9,fast
+27.0,Spotify,2.0,Yes,Yes,Yes,Pop,Yes,Yes,100.0,2,1,3,0,0,2,3,3,2,2,2,3,3,1,2,2,8.0,7.0,7.0,5.0,Improve,25-29,27.0,3,3,121.6,moderate
+18.0,Spotify,5.0,Yes,No,No,Rock,Yes,Yes,120.0,1,0,1,1,0,1,0,1,0,1,2,3,1,2,3,3,8.0,8.0,8.0,6.0,Improve,teens adult,30.0,0,1,121.7,fast
+17.0,Apple Music,3.0,Yes,Yes,Yes,Pop,Yes,No,120.0,1,1,0,2,0,2,3,0,1,0,2,3,3,3,3,0,8.0,10.0,9.0,2.0,Improve,teens under 18,29.0,1,2,120.9,fast
+23.0,Other streaming service,4.5,Yes,No,No,Rock,No,Yes,120.0,2,1,0,2,1,2,1,1,0,1,2,2,1,2,3,2,6.0,1.0,8.0,4.0,No effect,20-24,19.0,1,2,122.9,fast
+40.0,Other streaming service,3.0,Yes,No,No,Rock,Yes,Yes,178.0,2,0,0,0,0,0,1,0,0,1,2,2,1,0,2,0,0.0,4.0,4.0,0.0,Improve,forties,8.0,1,1,122.9,extremely_fast
+27.0,Spotify,20.0,Yes,No,No,Rock,Yes,Yes,120.0,2,1,2,1,0,1,0,2,1,2,3,1,0,1,3,2,8.0,10.0,10.0,8.0,No effect,25-29,36.0,2,2,126.9,fast
+18.0,Spotify,1.0,No,No,No,Pop,Yes,No,100.0,1,1,0,1,1,2,0,0,0,0,0,3,1,2,2,1,3.0,2.0,0.0,1.0,No effect,teens adult,6.0,0,1,118.6,moderate
+16.0,Spotify,2.5,No,Yes,Yes,Metal,Yes,No,110.0,0,0,0,0,0,0,1,0,0,1,3,0,0,1,3,2,5.0,3.0,3.0,1.0,Improve,teens under 18,12.0,0,1,131.0,moderate
+18.0,Spotify,1.0,No,No,No,Rock,Yes,Yes,108.0,2,1,0,2,0,2,0,0,0,0,2,2,1,1,3,1,8.0,9.0,6.0,1.0,Improve,teens adult,24.0,1,2,122.9,moderate
+23.0,Spotify,2.0,No,Yes,No,Jazz,No,Yes,120.0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,10.0,3.0,0.0,10.0,No effect,20-24,23.0,0,0,116.2,fast
+15.0,I do not use a streaming service.,5.0,Yes,Yes,No,Metal,Yes,No,161.0,0,0,1,0,0,0,0,0,0,0,3,1,0,1,2,0,6.0,7.0,8.0,2.0,Improve,teens under 18,23.0,0,1,135.1,extremely_fast
+20.0,Apple Music,3.0,Yes,Yes,No,Metal,Yes,No,140.0,2,1,0,0,0,1,2,0,0,1,3,1,0,1,3,2,7.0,4.0,7.0,0.0,Improve,20-24,18.0,2,1,131.0,fast
+16.0,Spotify,3.0,Yes,Yes,No,Rock,Yes,No,120.0,0,1,0,1,0,0,0,0,2,0,1,1,1,1,3,1,9.0,8.0,6.0,2.0,Improve,teens under 18,25.0,0,0,122.9,fast
+16.0,Spotify,0.5,No,No,No,Rock,No,Yes,156.0,2,0,1,0,0,1,1,0,0,0,0,2,0,0,3,2,8.0,0.0,0.0,0.0,Improve,teens under 18,8.0,1,0,122.9,extremely_fast
+20.0,Apple Music,8.0,Yes,Yes,Yes,Country,Yes,No,120.0,0,3,0,2,0,1,0,0,0,0,0,1,1,1,2,0,8.0,9.0,2.0,5.0,No effect,20-24,24.0,0,0,110.0,fast
+33.0,Spotify,2.0,Yes,No,No,Metal,Yes,Yes,140.0,1,1,0,1,0,2,0,0,0,0,3,0,0,2,2,2,7.0,2.0,3.0,0.0,Improve,thirties,12.0,0,2,135.1,fast
+22.0,Spotify,3.0,Yes,Yes,Yes,Rock,Yes,Yes,90.0,0,3,1,2,0,1,2,0,3,0,1,2,3,2,3,0,10.0,10.0,4.0,0.0,Improve,20-24,24.0,1,0,127.2,moderate
+21.0,Spotify,3.0,Yes,No,No,Hip hop,Yes,Yes,85.0,0,0,1,0,0,3,1,0,0,2,0,3,3,3,3,0,8.0,8.0,3.0,3.0,Improve,20-24,22.0,1,1,120.3,moderate
+21.0,Apple Music,5.0,Yes,Yes,No,Metal,Yes,Yes,171.0,1,0,2,0,0,3,2,0,0,2,3,1,2,3,2,2,8.0,7.0,7.0,4.0,Improve,20-24,26.0,2,3,129.0,extremely_fast
+29.0,Apple Music,1.5,Yes,No,Yes,Rock,Yes,Yes,108.0,1,0,2,0,0,1,1,0,0,0,1,3,3,3,3,0,8.0,7.0,1.0,2.0,Improve,25-29,18.0,0,1,122.7,moderate
+56.0,I do not use a streaming service.,1.0,Yes,No,No,Pop,No,No,105.0,0,1,0,1,0,0,0,0,0,0,0,2,2,0,2,0,6.0,5.0,10.0,2.0,No effect,pre_retirement,23.0,0,0,118.6,moderate
+17.0,Spotify,2.0,Yes,Yes,No,Pop,Yes,No,76.0,2,0,0,0,0,1,1,0,0,1,0,3,1,1,0,1,7.0,6.0,0.0,4.0,Improve,teens under 18,17.0,1,0,118.6,slow
+22.0,Spotify,1.0,Yes,No,No,Pop,No,No,108.0,1,1,2,0,0,0,1,0,0,0,0,3,0,0,1,1,7.0,4.0,0.0,0.0,Improve,20-24,11.0,0,1,118.6,moderate
+26.0,Spotify,4.0,Yes,No,No,Pop,Yes,Yes,140.0,2,2,1,1,0,2,0,1,0,1,0,3,1,1,3,1,8.0,7.0,2.0,10.0,No effect,25-29,27.0,1,1,120.0,fast
+30.0,Spotify,1.0,Yes,No,No,EDM,Yes,Yes,132.0,0,0,3,0,0,2,0,0,0,0,1,0,0,2,0,0,4.0,4.0,4.0,0.0,Improve,thirties,12.0,0,2,131.8,fast
+49.0,Spotify,2.0,Yes,No,No,Folk,Yes,No,147.0,1,1,2,3,0,2,1,0,0,2,1,2,2,2,1,1,0.0,0.0,2.0,0.0,No effect,forties,2.0,1,2,115.4,fast
+22.0,Spotify,2.0,Yes,Yes,Yes,EDM,Yes,Yes,120.0,1,2,3,2,1,2,2,1,1,2,3,2,2,3,2,3,6.0,4.0,0.0,1.0,Improve,20-24,11.0,2,3,130.3,fast
+32.0,Spotify,2.0,No,No,No,Rock,Yes,No,158.0,0,1,2,1,0,2,0,0,0,2,1,2,2,2,2,0,4.0,7.0,0.0,0.0,Improve,thirties,11.0,1,2,122.9,extremely_fast
+32.0,I do not use a streaming service.,1.0,No,No,No,Rock,No,No,110.0,1,2,0,2,0,0,0,0,1,0,2,3,1,0,3,0,8.0,4.0,3.0,0.0,No effect,thirties,15.0,0,1,121.4,moderate
+22.0,YouTube Music,6.0,Yes,No,No,Country,Yes,No,103.0,0,3,0,1,0,2,0,0,1,0,2,0,0,2,3,1,5.0,5.0,3.0,3.0,Improve,20-24,16.0,0,2,114.3,moderate
+17.0,Spotify,2.0,Yes,No,No,Rock,Yes,Yes,93.0,0,1,2,2,1,1,2,1,1,1,3,3,2,2,3,2,0.0,8.0,0.0,0.0,Improve,teens under 18,8.0,1,2,124.8,moderate
+21.0,Spotify,4.0,Yes,Yes,No,Rock,Yes,No,120.0,1,0,0,1,0,0,0,0,0,0,1,3,1,0,3,0,7.0,4.0,6.0,1.0,Improve,20-24,18.0,0,0,121.4,fast
+17.0,Spotify,1.5,Yes,No,No,Rock,Yes,Yes,180.0,3,0,1,1,0,0,0,0,3,1,1,2,2,1,3,1,8.0,7.0,7.0,3.0,No effect,teens under 18,25.0,1,0,131.7,extremely_fast
+25.0,Spotify,3.0,Yes,No,No,Metal,No,No,150.0,2,2,1,1,0,0,0,0,0,0,3,2,2,0,3,2,9.0,8.0,6.0,2.0,Improve,25-29,25.0,1,1,131.0,extremely_fast
+15.0,Spotify,4.0,Yes,No,Yes,Rock,Yes,No,105.0,0,0,1,0,0,1,0,2,0,3,2,3,2,1,3,0,8.0,6.0,4.0,0.0,Improve,teens under 18,18.0,1,1,119.6,moderate
+13.0,Spotify,10.0,Yes,No,No,Rap,Yes,No,140.0,0,0,1,0,0,2,0,0,0,2,0,1,1,3,0,1,7.0,2.0,0.0,8.0,Improve,teens under 18,17.0,1,1,130.1,fast
+38.0,Spotify,3.0,Yes,No,No,Rock,No,Yes,120.0,3,1,0,1,0,0,2,0,1,0,3,2,1,0,3,0,6.0,7.0,7.0,7.0,No effect,thirties,27.0,2,1,125.1,fast
+23.0,Apple Music,3.0,No,No,No,Rock,Yes,No,161.0,1,0,2,2,0,1,0,0,0,1,1,2,0,0,3,2,7.0,6.0,4.0,2.0,Improve,20-24,19.0,0,1,122.9,extremely_fast
+17.0,Spotify,3.0,Yes,No,No,Pop,Yes,Yes,120.0,2,2,2,1,1,3,1,3,0,3,0,3,3,3,3,1,1.0,1.0,1.0,0.0,Improve,teens under 18,3.0,2,2,120.5,fast
+59.0,YouTube Music,2.0,Yes,No,No,Pop,Yes,No,103.0,1,0,3,1,0,1,2,1,1,1,0,3,3,1,2,0,1.0,1.0,3.0,0.0,Improve,pre_retirement,5.0,1,1,122.0,moderate
+22.0,Spotify,2.0,Yes,Yes,Yes,Pop,Yes,No,120.0,1,1,0,1,1,2,2,0,1,1,0,3,3,2,2,1,2.0,7.0,1.0,2.0,Improve,20-24,12.0,1,1,118.7,fast
+17.0,Apple Music,3.0,Yes,No,No,Pop,Yes,Yes,113.0,2,1,0,0,0,3,2,3,1,0,0,3,1,3,2,1,6.0,2.0,3.0,1.0,No effect,teens under 18,12.0,2,1,121.7,moderate
+27.0,Spotify,2.0,No,No,No,Pop,No,No,120.0,0,0,0,0,0,0,0,0,0,0,1,3,0,2,2,1,7.0,7.0,3.0,2.0,No effect,25-29,19.0,0,0,118.6,fast
+23.0,Spotify,5.0,Yes,Yes,No,Video game music,No,No,95.0,2,0,2,0,0,1,1,1,0,2,1,2,1,2,2,2,8.0,7.0,0.0,3.0,No effect,20-24,18.0,2,1,122.4,moderate
+15.0,Spotify,6.0,Yes,No,No,Rock,No,No,97.0,1,0,2,1,0,2,1,0,0,1,1,2,2,0,3,2,8.0,3.0,5.0,2.0,Improve,teens under 18,18.0,0,2,122.9,moderate
+22.0,Spotify,3.0,Yes,Yes,Yes,EDM,Yes,No,140.0,1,1,3,2,1,2,1,0,0,1,2,2,2,2,3,3,5.0,4.0,2.0,0.0,Improve,20-24,11.0,0,3,127.2,fast
+23.0,Spotify,5.0,Yes,No,No,Lofi,Yes,Yes,120.0,3,1,2,2,1,1,2,1,1,3,1,3,3,1,3,3,7.0,10.0,10.0,1.0,Improve,20-24,28.0,3,1,118.7,fast
+19.0,Spotify,5.0,Yes,No,No,Country,Yes,Yes,118.0,1,3,0,3,2,1,2,0,3,1,0,2,2,1,2,0,7.0,6.0,8.0,4.0,Improve,teens adult,25.0,1,0,124.2,moderate
+32.0,Spotify,6.0,Yes,No,No,Rock,No,No,91.0,0,1,2,0,0,1,1,0,0,0,0,2,1,1,3,1,8.0,7.0,0.0,9.0,Improve,thirties,24.0,0,1,122.9,moderate
+40.0,Spotify,6.0,Yes,No,No,Rock,Yes,Yes,128.0,2,2,2,2,1,2,2,0,2,2,1,2,2,2,3,1,10.0,7.0,3.0,3.0,No effect,forties,23.0,3,2,122.9,fast
+21.0,Spotify,3.0,Yes,No,No,Country,Yes,No,86.0,0,3,1,2,1,2,0,0,0,0,1,2,1,2,2,0,6.0,5.0,5.0,3.0,Improve,20-24,19.0,0,1,110.0,moderate
+21.0,Spotify,10.0,Yes,No,No,Rock,Yes,Yes,107.0,1,0,3,2,0,1,1,1,1,2,2,3,2,1,3,3,8.0,7.0,6.0,8.0,No effect,20-24,29.0,1,2,123.7,moderate
+23.0,Spotify,2.0,Yes,No,No,Video game music,Yes,Yes,180.0,2,0,3,0,0,1,1,2,0,2,0,3,1,2,2,3,10.0,7.0,7.0,3.0,Worsen,20-24,27.0,2,1,123.8,extremely_fast
+21.0,YouTube Music,2.0,Yes,No,No,EDM,No,Yes,130.0,1,1,3,1,1,1,0,0,0,2,1,2,1,1,2,3,10.0,10.0,5.0,7.0,No effect,20-24,32.0,1,1,128.7,fast
+35.0,Spotify,3.0,No,Yes,No,Folk,Yes,No,115.0,2,2,0,2,0,0,1,0,0,1,0,1,0,0,2,2,8.0,2.0,2.0,8.0,No effect,thirties,20.0,1,0,115.4,moderate
+18.0,Spotify,1.5,No,No,No,Hip hop,No,No,150.0,0,0,0,0,0,2,2,0,0,2,0,3,0,2,2,0,3.0,7.0,4.0,0.0,Improve,teens adult,14.0,2,1,117.1,extremely_fast
+21.0,I do not use a streaming service.,10.0,Yes,No,No,Pop,Yes,No,112.0,0,1,0,0,0,1,0,0,0,0,0,2,1,0,2,0,9.0,7.0,5.0,5.0,Improve,20-24,26.0,0,0,118.6,moderate
+22.0,I do not use a streaming service.,2.0,Yes,No,No,Video game music,No,Yes,120.0,0,0,1,0,0,2,1,0,1,0,0,3,0,1,2,3,5.0,3.0,0.0,0.0,Improve,20-24,8.0,0,1,121.1,fast
+23.0,Spotify,3.0,Yes,Yes,Yes,Rock,Yes,Yes,120.0,1,1,0,3,0,2,2,0,0,0,3,3,3,2,3,0,10.0,7.0,0.0,10.0,Improve,20-24,27.0,1,2,122.3,fast
+13.0,Spotify,2.5,Yes,No,No,Folk,No,No,118.0,0,2,0,3,0,0,0,0,0,0,0,3,0,0,0,0,8.0,0.0,0.0,3.0,Improve,teens under 18,11.0,0,0,116.5,moderate
+19.0,Spotify,3.0,Yes,No,No,K pop,Yes,Yes,110.0,2,1,1,2,0,1,0,3,0,2,0,3,3,3,3,0,6.0,0.0,3.0,0.0,Improve,teens adult,9.0,2,0,123.5,moderate
+33.0,YouTube Music,0.5,Yes,Yes,No,Rock,No,No,80.0,2,0,1,0,0,0,1,0,0,1,2,1,0,0,2,1,7.0,9.0,4.0,6.0,Improve,thirties,26.0,1,1,122.9,slow
+18.0,Spotify,16.0,Yes,No,Yes,Jazz,Yes,Yes,90.0,2,2,2,2,2,3,3,3,3,3,3,3,3,3,3,1,3.0,2.0,5.0,6.0,Improve,teens adult,16.0,3,3,125.0,moderate
+17.0,YouTube Music,6.0,Yes,Yes,No,Classical,Yes,Yes,120.0,3,1,0,0,0,1,2,1,0,2,0,3,0,0,0,1,4.0,2.0,0.0,0.0,Improve,teens under 18,6.0,3,0,119.2,fast
+16.0,Spotify,3.0,Yes,No,No,EDM,Yes,Yes,100.0,1,0,3,0,0,3,2,3,0,1,2,3,1,3,3,3,4.0,2.0,0.0,0.0,Improve,teens under 18,6.0,1,3,124.8,moderate
+18.0,YouTube Music,0.5,No,No,No,Rock,Yes,No,120.0,1,0,0,2,0,0,0,0,0,0,0,2,1,0,3,0,5.0,3.0,1.0,0.0,No effect,teens adult,9.0,0,0,122.9,fast
+19.0,Spotify,5.0,Yes,No,No,K pop,Yes,Yes,158.0,1,2,2,0,0,1,1,3,1,0,0,3,3,1,1,1,4.0,2.0,2.0,1.0,Improve,teens adult,9.0,0,1,122.0,extremely_fast
+15.0,YouTube Music,2.0,No,Yes,No,Rap,Yes,Yes,105.0,3,2,0,3,2,3,2,2,0,3,2,1,3,3,2,3,4.0,0.0,6.0,5.0,No effect,teens under 18,15.0,3,2,120.8,moderate
+17.0,Spotify,2.0,Yes,No,No,Pop,Yes,Yes,120.0,0,0,0,0,0,1,0,1,0,0,3,3,0,3,3,3,7.0,6.0,3.0,1.0,Improve,teens under 18,17.0,0,1,124.6,fast
+25.0,Spotify,2.0,Yes,No,No,Lofi,Yes,Yes,91.0,2,1,2,1,0,3,3,1,2,3,0,2,1,2,3,2,7.0,8.0,6.0,2.0,Improve,25-29,23.0,3,2,116.7,moderate
+24.0,Other streaming service,1.5,Yes,No,No,Video game music,No,Yes,171.0,2,1,3,1,2,2,2,3,1,3,3,3,2,2,3,3,3.0,4.0,1.0,1.0,Improve,20-24,9.0,3,3,124.1,extremely_fast
+23.0,Spotify,1.0,Yes,Yes,No,Jazz,Yes,No,150.0,1,1,3,0,1,0,3,1,1,0,2,1,2,0,3,2,9.0,7.0,2.0,1.0,Improve,20-24,19.0,1,2,121.8,extremely_fast
+16.0,Spotify,10.0,Yes,Yes,No,EDM,Yes,Yes,180.0,1,1,3,2,0,1,2,1,0,1,1,3,2,2,2,2,10.0,9.0,3.0,2.0,Improve,teens under 18,24.0,1,1,127.4,extremely_fast
+25.0,YouTube Music,2.0,Yes,No,No,Metal,Yes,Yes,140.0,1,1,1,1,2,1,2,0,1,1,3,2,1,1,3,2,9.0,9.0,7.0,3.0,Improve,25-29,28.0,1,1,131.0,fast
+16.0,Spotify,15.0,Yes,Yes,Yes,EDM,Yes,No,85.0,1,0,3,0,0,1,1,0,0,1,2,2,0,3,3,2,8.0,10.0,9.0,2.0,Improve,teens under 18,29.0,0,2,129.2,moderate
+20.0,I do not use a streaming service.,0.5,No,No,No,Metal,Yes,Yes,150.0,2,1,2,0,0,2,2,0,0,2,2,1,1,1,2,2,8.0,9.0,6.0,4.0,Improve,20-24,27.0,3,3,135.1,extremely_fast
+17.0,Spotify,3.0,Yes,No,No,Metal,Yes,No,104.0,0,1,1,0,2,2,0,0,0,0,3,0,1,2,3,0,5.0,6.0,9.0,9.0,Improve,teens under 18,29.0,0,2,131.0,moderate
+29.0,I do not use a streaming service.,2.0,Yes,No,No,Metal,Yes,No,140.0,0,0,0,0,0,0,0,0,0,0,3,2,0,0,3,0,9.0,3.0,7.0,2.0,Improve,25-29,21.0,0,1,131.0,fast
+20.0,Spotify,4.0,Yes,No,No,Hip hop,Yes,No,85.0,0,1,3,1,0,3,0,0,0,0,0,2,2,3,2,0,3.0,2.0,1.0,6.0,Improve,20-24,12.0,0,2,123.3,moderate
+16.0,Spotify,2.0,Yes,No,No,Folk,Yes,No,115.0,0,0,0,3,0,1,0,0,0,0,2,3,0,1,2,0,7.0,7.0,4.0,0.0,Improve,teens under 18,18.0,0,1,116.5,moderate
+21.0,Spotify,1.0,Yes,No,No,Rock,Yes,No,147.0,1,2,2,2,0,2,1,1,1,1,1,3,0,2,3,3,7.0,9.0,1.0,2.0,Improve,20-24,19.0,0,2,121.7,fast
+16.0,Spotify,24.0,Yes,No,No,Rock,Yes,Yes,120.0,0,0,1,0,0,0,0,1,1,1,1,1,1,1,2,1,5.0,1.0,9.0,1.0,Improve,teens under 18,16.0,0,0,122.9,fast
+43.0,Spotify,1.0,Yes,No,No,Pop,Yes,No,134.0,2,0,0,2,1,2,1,0,0,1,0,3,1,1,2,0,3.0,3.0,0.0,0.0,Improve,forties,6.0,1,1,118.6,fast
+32.0,Pandora,2.0,Yes,Yes,No,Classical,Yes,No,118.0,3,2,1,3,2,2,2,1,2,1,3,3,2,1,3,3,8.0,7.0,5.0,4.0,Improve,thirties,24.0,2,2,121.9,moderate
+10.0,YouTube Music,2.0,Yes,Yes,No,Pop,Yes,Yes,112.0,3,0,1,0,0,1,1,3,0,1,0,3,0,1,0,3,8.0,2.0,1.0,1.0,Improve,children,12.0,1,0,120.9,moderate
+27.0,Spotify,3.0,Yes,No,No,Metal,Yes,Yes,140.0,1,1,2,0,0,2,0,2,1,2,3,2,1,3,3,3,4.0,0.0,0.0,0.0,Improve,25-29,4.0,1,3,129.1,fast
+24.0,Spotify,3.0,Yes,Yes,No,Classical,No,Yes,75.0,3,0,0,0,1,1,0,0,2,1,2,1,0,1,0,0,9.0,6.0,1.0,1.0,Improve,20-24,17.0,1,1,119.6,slow
+18.0,Spotify,2.0,Yes,No,No,Hip hop,Yes,Yes,112.0,1,0,1,0,1,3,1,3,2,0,0,2,3,3,0,0,10.0,7.0,2.0,0.0,Improve,teens adult,19.0,0,1,121.2,moderate
+17.0,Apple Music,7.0,Yes,No,No,Rock,No,No,140.0,0,0,0,0,0,0,0,0,0,2,0,3,0,0,3,2,8.0,7.0,7.0,4.0,Improve,teens under 18,26.0,1,0,121.4,fast
+19.0,Spotify,6.0,Yes,No,No,Metal,Yes,No,111.0,2,0,0,0,0,0,0,0,0,0,3,1,0,0,3,2,1.0,0.0,0.0,0.0,Improve,teens adult,1.0,1,1,131.0,moderate
+16.0,YouTube Music,3.0,Yes,No,No,Rock,Yes,Yes,150.0,2,0,2,0,0,1,1,1,0,1,2,2,2,2,3,2,5.0,7.0,1.0,4.0,Improve,teens under 18,17.0,1,2,122.9,extremely_fast
+64.0,Other streaming service,5.0,Yes,No,Yes,Rock,Yes,No,120.0,2,1,0,1,2,2,3,2,0,1,2,1,2,1,3,0,7.0,6.0,9.0,2.0,Improve,pre_retirement,24.0,2,2,120.7,fast
+33.0,Apple Music,4.0,Yes,Yes,Yes,Lofi,Yes,Yes,114.0,2,1,1,2,0,2,2,1,1,3,3,2,1,2,2,2,8.0,8.0,2.0,2.0,Improve,thirties,20.0,3,2,121.2,moderate
+32.0,I do not use a streaming service.,3.0,Yes,Yes,No,Rock,No,Yes,93.0,3,2,2,2,0,0,3,1,1,0,3,1,0,1,3,1,2.0,2.0,8.0,0.0,No effect,thirties,12.0,2,2,123.3,moderate
+15.0,Pandora,2.0,Yes,Yes,No,Pop,Yes,No,145.0,1,2,0,0,0,0,0,1,3,0,0,3,2,2,0,0,6.0,0.0,0.0,2.0,Improve,teens under 18,8.0,0,0,132.8,fast
+27.0,YouTube Music,3.0,Yes,No,No,Metal,Yes,Yes,100.0,3,3,0,1,0,1,0,0,0,0,3,2,0,1,3,1,2.0,0.0,1.0,0.0,Improve,25-29,3.0,1,1,124.5,moderate
+20.0,I do not use a streaming service.,2.0,Yes,No,No,Rock,Yes,No,114.0,1,1,0,2,0,0,1,0,0,0,1,2,1,0,3,2,6.0,2.0,6.0,7.0,No effect,20-24,21.0,0,0,122.9,moderate
+23.0,I do not use a streaming service.,2.0,Yes,No,No,Pop,Yes,Yes,109.0,1,3,0,1,3,3,2,1,0,1,0,3,3,3,3,2,6.0,1.0,0.0,5.0,Improve,20-24,12.0,1,1,117.8,moderate
+19.0,Apple Music,3.0,No,Yes,No,Classical,Yes,No,118.0,3,1,0,1,1,2,1,0,0,0,1,2,0,0,3,2,7.0,6.0,4.0,0.0,Improve,teens adult,17.0,1,1,120.7,moderate
+12.0,YouTube Music,2.0,Yes,Yes,Yes,Classical,No,No,118.0,3,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0.0,0.0,3.0,0.0,Improve,children,3.0,1,0,119.6,moderate
+16.0,Other streaming service,3.0,Yes,Yes,Yes,Classical,No,No,118.0,3,1,0,0,1,0,0,0,0,0,0,3,0,0,0,1,9.0,7.0,10.0,6.0,No effect,teens under 18,32.0,1,0,119.2,moderate
+17.0,Other streaming service,0.0,No,No,No,Video game music,No,Yes,89.0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,3,10.0,0.0,0.0,0.0,No effect,teens under 18,10.0,1,0,119.7,moderate
+14.0,Spotify,1.0,Yes,Yes,No,Pop,Yes,No,140.0,1,1,3,1,1,2,2,2,1,2,1,3,2,2,2,2,6.0,6.0,3.0,0.0,Improve,teens under 18,15.0,2,2,123.0,fast
+32.0,Spotify,2.0,Yes,No,No,Metal,Yes,No,84.0,1,1,3,1,1,1,1,1,0,2,3,2,1,1,2,3,4.0,3.0,1.0,6.0,Improve,thirties,14.0,1,2,131.1,slow
+20.0,Spotify,2.0,Yes,Yes,No,Pop,No,Yes,132.0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1,6.0,2.0,2.0,1.0,No effect,20-24,11.0,0,0,118.6,fast
+54.0,I do not use a streaming service.,6.0,Yes,No,No,Classical,No,No,118.0,3,2,0,0,0,2,1,1,1,0,1,2,2,1,1,0,2.0,2.0,3.0,2.0,Improve,pre_retirement,9.0,1,1,119.6,moderate
+18.0,Spotify,5.0,Yes,No,No,K pop,Yes,Yes,124.0,0,1,1,0,0,1,1,3,1,1,0,3,1,2,2,0,7.0,4.0,5.0,6.0,Improve,teens adult,22.0,0,0,123.1,fast
+14.0,Spotify,2.0,Yes,Yes,No,Classical,Yes,No,118.0,3,0,0,0,0,1,0,0,0,1,2,2,0,1,3,1,7.0,5.0,3.0,2.0,Improve,teens under 18,17.0,1,1,120.7,moderate
+13.0,Other streaming service,4.0,Yes,Yes,Yes,Classical,Yes,No,126.0,3,0,2,1,0,0,1,1,0,0,1,3,0,0,2,2,8.0,5.0,10.0,3.0,Improve,teens under 18,26.0,1,1,119.2,fast
+19.0,Apple Music,8.0,Yes,No,Yes,Country,Yes,No,109.0,0,3,0,1,0,0,0,0,0,0,1,1,0,1,2,1,7.0,5.0,6.0,5.0,Improve,teens adult,23.0,0,0,110.0,moderate
+14.0,Spotify,4.0,Yes,Yes,No,Classical,Yes,No,106.0,3,0,1,0,0,2,2,1,1,1,2,2,2,2,2,1,6.0,8.0,8.0,2.0,Improve,teens under 18,24.0,2,2,119.6,moderate
+14.0,YouTube Music,1.5,No,Yes,No,Classical,Yes,No,140.0,3,0,0,0,1,0,2,0,0,0,0,0,0,0,1,2,1.0,2.0,4.0,3.0,Improve,teens under 18,10.0,2,0,119.6,fast
+18.0,Apple Music,2.0,Yes,Yes,No,Rap,Yes,Yes,170.0,3,0,2,0,0,3,2,1,3,2,1,2,2,3,1,2,3.0,2.0,0.0,2.0,Improve,teens adult,7.0,3,2,131.4,extremely_fast
+15.0,Spotify,5.0,Yes,No,No,Folk,Yes,Yes,87.0,1,2,0,3,1,2,0,0,0,2,0,0,0,2,1,1,6.0,7.0,7.0,4.0,Improve,teens under 18,24.0,1,1,115.4,moderate
+24.0,YouTube Music,6.0,Yes,Yes,No,Classical,No,No,118.0,3,0,2,0,0,0,0,3,0,0,0,0,0,0,1,0,6.0,7.0,2.0,0.0,No effect,20-24,15.0,1,1,121.5,moderate
+17.0,Apple Music,2.0,Yes,No,No,Pop,No,Yes,117.0,1,0,0,0,0,1,1,0,0,2,1,3,3,0,0,2,9.0,8.0,4.0,8.0,Improve,teens under 18,29.0,1,0,118.7,moderate
+44.0,Spotify,2.0,No,No,No,Rock,Yes,No,105.0,2,2,2,2,1,2,1,1,0,0,2,2,2,2,3,0,7.0,7.0,2.0,1.0,Improve,forties,17.0,1,3,122.9,moderate
+23.0,Spotify,1.0,No,Yes,No,Rock,Yes,No,120.0,2,0,0,0,0,0,1,0,0,1,2,0,0,0,3,0,1.0,0.0,1.0,0.0,Improve,20-24,2.0,1,1,122.9,fast
+21.0,Apple Music,1.0,No,No,No,Rap,No,No,160.0,1,1,0,0,0,2,1,0,0,1,1,2,2,2,1,0,4.0,3.0,4.0,5.0,Improve,20-24,16.0,0,1,130.1,extremely_fast
+57.0,Other streaming service,2.0,No,No,No,R&B,Yes,No,116.0,1,2,0,0,1,2,2,0,0,0,0,2,2,2,1,0,2.0,0.0,0.0,0.0,Improve,pre_retirement,2.0,1,1,118.9,moderate
+23.0,Spotify,2.0,Yes,Yes,No,Rock,Yes,Yes,141.0,1,1,0,3,0,1,0,0,0,3,3,3,0,2,3,3,0.0,5.0,7.0,0.0,No effect,20-24,12.0,1,1,121.6,fast
+18.0,Spotify,1.0,Yes,Yes,No,Pop,No,Yes,105.0,2,1,0,0,1,0,1,0,2,1,0,3,0,0,0,3,8.0,7.0,7.0,0.0,Improve,teens adult,22.0,1,0,119.8,moderate
+26.0,Spotify,14.0,Yes,No,No,Hip hop,Yes,Yes,158.0,2,2,1,3,0,3,3,1,1,3,1,2,3,3,3,1,5.0,10.0,8.0,0.0,No effect,25-29,23.0,3,1,118.7,extremely_fast
+13.0,YouTube Music,3.0,Yes,No,Yes,Classical,No,No,80.0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8.0,7.0,9.0,2.0,Improve,teens under 18,26.0,1,0,119.6,slow
+15.0,Spotify,3.0,Yes,Yes,Yes,Classical,Yes,No,118.0,3,0,0,0,0,0,0,1,0,2,0,2,0,0,0,2,9.0,6.0,8.0,5.0,Improve,teens under 18,28.0,2,0,119.6,moderate
+57.0,YouTube Music,2.0,Yes,Yes,Yes,Rock,Yes,No,125.0,0,0,0,0,0,1,2,0,1,1,2,2,2,1,3,0,2.0,2.0,7.0,0.0,No effect,pre_retirement,11.0,1,1,122.9,fast
+12.0,Spotify,0.5,Yes,Yes,Yes,Classical,Yes,Yes,109.0,3,0,0,0,0,0,1,0,0,1,0,2,0,0,0,0,7.0,8.0,6.0,2.0,Improve,children,23.0,1,0,119.6,moderate
+26.0,Spotify,6.0,Yes,No,No,EDM,No,Yes,156.0,0,0,3,0,0,0,0,0,0,0,0,1,1,1,0,1,10.0,10.0,8.0,2.0,No effect,25-29,30.0,0,1,131.8,extremely_fast
+17.0,Spotify,1.0,Yes,Yes,No,Country,No,No,105.0,0,3,0,1,1,0,1,0,0,0,1,1,1,0,2,1,8.0,5.0,2.0,3.0,Improve,teens under 18,18.0,0,0,110.0,moderate
+17.0,Spotify,2.0,Yes,Yes,No,Classical,Yes,Yes,118.0,3,0,1,0,0,0,0,1,0,1,1,2,1,0,2,2,7.0,8.0,2.0,5.0,Improve,teens under 18,22.0,1,0,119.6,moderate
+69.0,Pandora,4.0,Yes,Yes,Yes,Classical,Yes,Yes,118.0,3,2,0,2,2,1,3,1,1,1,0,2,2,0,3,0,1.0,1.0,2.0,0.0,Improve,retired,4.0,2,0,119.6,moderate
+17.0,Spotify,3.0,Yes,Yes,Yes,R&B,Yes,Yes,148.0,3,0,1,0,2,3,3,3,2,0,1,3,3,3,2,0,9.0,10.0,10.0,3.0,No effect,teens under 18,32.0,2,1,120.4,fast
+32.0,Spotify,12.0,Yes,Yes,Yes,Jazz,Yes,Yes,120.0,0,0,2,1,0,2,3,1,0,2,0,1,2,1,0,0,9.0,4.0,4.0,4.0,Improve,thirties,21.0,2,2,116.2,fast
+22.0,YouTube Music,3.0,No,Yes,No,Classical,Yes,No,113.0,3,0,0,0,0,0,2,0,0,0,0,1,0,0,1,0,8.0,2.0,4.0,0.0,No effect,20-24,14.0,2,0,119.6,moderate
+38.0,Spotify,1.0,No,No,No,Metal,Yes,Yes,140.0,1,0,0,2,0,0,1,0,0,0,3,0,0,0,2,1,1.0,1.0,5.0,1.0,Improve,thirties,8.0,0,1,135.1,fast
+18.0,YouTube Music,10.0,Yes,No,No,EDM,Yes,No,140.0,0,0,3,2,0,2,0,0,0,2,0,3,3,3,0,0,10.0,9.0,9.0,8.0,Improve,teens adult,36.0,1,2,126.3,fast
+14.0,Spotify,5.0,Yes,Yes,No,Classical,Yes,Yes,118.0,3,1,1,1,1,1,1,2,1,2,0,2,2,1,1,3,3.0,0.0,2.0,3.0,Improve,teens under 18,8.0,2,0,120.5,moderate
+14.0,Other streaming service,0.5,Yes,Yes,No,Video game music,Yes,Yes,173.0,3,0,0,1,0,0,1,2,1,0,0,3,0,0,0,3,4.0,0.0,4.0,0.0,Improve,teens under 18,8.0,1,0,120.7,extremely_fast
+19.0,Spotify,5.0,Yes,Yes,Yes,Metal,Yes,Yes,180.0,1,1,1,1,0,1,1,0,1,2,3,2,1,1,3,2,2.0,3.0,5.0,2.0,Improve,teens adult,12.0,1,1,131.0,extremely_fast
+20.0,YouTube Music,3.0,Yes,Yes,Yes,Classical,Yes,No,100.0,3,2,1,2,1,1,3,1,1,0,1,2,2,1,1,1,2.0,3.0,3.0,0.0,Improve,20-24,8.0,2,0,118.5,moderate
+18.0,Spotify,2.0,No,No,No,Rock,Yes,No,123.0,0,3,0,1,1,1,1,0,0,0,2,3,0,2,2,2,8.0,4.0,3.0,0.0,Improve,teens adult,15.0,0,1,117.1,fast
+30.0,Spotify,13.0,No,No,No,K pop,Yes,Yes,145.0,2,0,1,2,0,2,2,3,3,1,1,3,3,2,3,2,10.0,10.0,10.0,7.0,Improve,thirties,37.0,2,1,128.7,fast
+31.0,I do not use a streaming service.,4.0,Yes,Yes,No,Classical,Yes,Yes,118.0,3,1,0,1,1,0,2,0,0,1,1,0,0,0,2,2,8.0,8.0,9.0,3.0,Improve,thirties,28.0,2,0,119.6,moderate
+72.0,Spotify,6.0,Yes,Yes,Yes,Rock,No,No,77.0,0,2,0,0,0,0,3,0,2,0,0,1,3,0,3,0,0.0,1.0,0.0,2.0,Improve,retired,3.0,1,0,120.2,slow
+73.0,Pandora,3.0,Yes,No,No,R&B,Yes,Yes,116.0,2,3,1,2,3,2,2,1,3,0,1,2,3,2,2,0,5.0,4.0,0.0,1.0,Improve,retired,10.0,2,1,123.3,moderate
+16.0,Spotify,4.0,Yes,No,No,Pop,Yes,Yes,150.0,1,1,2,2,1,3,1,2,1,2,1,3,1,1,1,1,7.5,5.0,7.0,8.5,Improve,teens under 18,28.0,1,2,117.6,extremely_fast
+19.0,YouTube Music,3.0,No,Yes,No,Rap,Yes,Yes,130.0,1,0,2,0,0,2,1,0,0,1,0,2,1,3,2,2,3.0,3.0,0.0,0.0,Improve,teens adult,6.0,0,2,130.1,fast
+16.0,Spotify,2.0,Yes,Yes,No,Classical,No,No,155.0,3,1,0,1,0,1,1,0,0,1,0,3,0,0,1,1,7.0,5.0,3.0,1.0,Improve,teens under 18,16.0,1,0,119.2,extremely_fast
+12.0,Spotify,2.0,Yes,Yes,Yes,Classical,Yes,Yes,118.0,3,1,0,0,1,2,1,1,0,0,0,2,0,1,2,0,8.0,0.0,1.0,6.0,Improve,children,15.0,1,1,119.6,moderate
+39.0,Spotify,1.0,Yes,No,No,Hip hop,Yes,Yes,89.0,0,1,1,2,0,3,1,1,1,2,2,3,2,3,3,0,6.0,4.0,1.0,1.0,Improve,thirties,12.0,1,2,120.6,moderate
+15.0,Spotify,6.0,Yes,Yes,No,K pop,Yes,Yes,110.0,2,0,1,2,0,1,2,3,2,2,1,3,2,1,3,0,8.0,8.0,7.0,10.0,No effect,teens under 18,33.0,3,0,123.0,moderate
+14.0,Spotify,9.0,Yes,No,No,R&B,Yes,Yes,140.0,3,1,1,1,1,2,1,3,1,2,1,3,3,3,1,1,10.0,8.0,9.0,5.0,Improve,teens under 18,32.0,2,1,121.9,fast
+21.0,Spotify,1.0,No,No,No,Country,No,No,135.0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.0,0.0,2.0,0.0,Improve,20-24,5.0,0,0,110.0,fast
+38.0,Apple Music,1.0,Yes,No,No,Video game music,No,No,125.0,1,0,0,0,0,1,2,1,1,0,1,2,1,1,1,3,5.0,5.0,7.0,1.0,Worsen,thirties,18.0,1,0,122.4,fast
+23.0,Spotify,0.5,No,No,Yes,Hip hop,Yes,Yes,110.0,2,2,1,1,1,3,1,3,1,2,1,2,2,3,1,2,7.0,7.0,6.0,5.0,Improve,20-24,25.0,2,1,121.7,moderate
+16.0,Other streaming service,1.0,No,No,No,EDM,Yes,No,140.0,0,0,3,0,0,2,1,0,0,2,2,1,1,1,2,2,7.0,4.0,6.0,3.0,Improve,teens under 18,20.0,1,3,131.8,fast
+21.0,Apple Music,1.5,Yes,Yes,No,Folk,No,No,105.0,0,2,0,3,0,0,0,0,0,0,0,0,0,0,2,0,3.0,3.0,1.0,0.0,No effect,20-24,7.0,0,0,115.4,moderate
+13.0,Spotify,6.0,Yes,No,No,Rap,Yes,No,112.0,0,0,0,0,0,3,0,1,0,1,0,1,0,3,0,0,4.0,0.0,0.0,2.0,Worsen,teens under 18,6.0,0,1,125.3,moderate
+16.0,Spotify,4.0,Yes,No,No,Rock,Yes,No,96.0,1,2,2,2,0,2,1,2,0,3,3,3,0,0,3,2,3.0,0.0,6.0,9.0,Improve,teens under 18,18.0,1,3,122.7,moderate
+18.0,Spotify,6.0,Yes,No,Yes,Rock,Yes,No,120.0,2,1,1,3,0,2,0,2,0,3,3,2,1,2,3,3,5.0,1.0,6.0,0.0,Improve,teens adult,12.0,2,2,122.2,fast
+21.0,Spotify,4.0,Yes,No,No,Metal,Yes,Yes,155.0,0,0,3,0,0,0,0,0,0,1,2,0,0,0,3,3,10.0,6.0,8.0,0.0,Improve,20-24,24.0,0,2,128.0,extremely_fast
+17.0,Spotify,1.5,Yes,No,No,Classical,Yes,Yes,174.0,3,1,0,1,0,0,2,0,0,2,0,3,1,0,0,0,7.0,5.0,1.0,2.0,No effect,teens under 18,15.0,3,0,119.2,extremely_fast
+24.0,Apple Music,2.0,Yes,No,No,Rock,Yes,Yes,93.0,1,2,0,3,0,2,2,0,1,2,0,1,1,2,3,0,7.0,7.0,0.0,4.0,No effect,20-24,18.0,2,1,120.4,moderate
+14.0,Apple Music,2.0,Yes,No,No,Pop,Yes,No,78.0,1,0,0,2,0,2,0,1,3,1,1,3,2,2,1,0,6.0,0.0,0.0,0.0,Improve,teens under 18,6.0,0,1,132.8,slow
+25.0,Spotify,4.0,Yes,No,No,Rock,Yes,Yes,120.0,2,1,1,3,1,2,2,1,1,2,2,2,1,2,3,3,6.0,2.0,3.0,2.0,Improve,25-29,13.0,3,2,120.9,fast
+22.0,Spotify,3.0,Yes,No,No,Lofi,Yes,Yes,174.0,1,3,2,1,1,1,1,1,1,3,1,1,1,1,1,1,7.0,6.0,7.0,9.0,Improve,20-24,29.0,1,1,112.9,extremely_fast
+20.0,I do not use a streaming service.,4.0,Yes,No,No,Rock,Yes,Yes,120.0,1,0,2,0,0,1,0,3,1,1,2,3,1,1,3,1,5.0,7.0,7.0,0.0,No effect,20-24,19.0,0,2,122.4,fast
+23.0,Spotify,2.0,Yes,No,No,Pop,No,No,75.0,2,1,1,2,0,3,2,0,0,0,0,3,3,3,2,2,7.0,6.0,4.0,3.0,Improve,20-24,20.0,2,1,120.4,slow
+61.0,Pandora,2.0,Yes,No,No,Rock,Yes,No,94.0,0,0,0,1,0,0,0,1,0,0,2,2,1,0,2,0,2.0,2.0,2.0,0.0,Improve,pre_retirement,6.0,0,1,122.9,moderate
+24.0,Spotify,6.0,Yes,No,No,Video game music,No,Yes,180.0,2,0,2,3,0,0,0,1,0,1,2,1,0,0,3,3,9.0,5.0,0.0,7.0,Improve,20-24,21.0,1,2,120.8,extremely_fast
+34.0,Spotify,0.0,No,Yes,No,Rock,No,Yes,115.0,1,1,0,2,0,0,0,0,0,0,1,0,0,0,3,0,3.0,7.0,8.0,0.0,Worsen,thirties,18.0,0,0,122.9,moderate
+49.0,Spotify,1.0,No,No,No,Pop,Yes,No,128.0,2,0,0,0,0,3,1,0,0,3,0,3,3,3,2,0,4.0,5.0,9.0,1.0,Improve,forties,19.0,2,1,119.4,fast
+33.0,I do not use a streaming service.,4.0,Yes,Yes,No,Rock,Yes,Yes,112.0,1,2,1,1,1,1,1,0,0,3,1,2,1,1,3,3,1.0,0.0,7.0,0.0,Improve,thirties,8.0,1,0,120.6,moderate
+22.0,I do not use a streaming service.,2.0,No,Yes,Yes,Metal,No,No,140.0,0,0,1,0,0,0,0,0,0,0,3,1,1,0,3,3,3.0,2.0,0.0,2.0,No effect,20-24,7.0,0,1,128.9,fast
+38.0,Spotify,3.0,Yes,No,No,Metal,Yes,Yes,143.0,1,0,0,0,0,0,0,0,0,0,3,0,0,1,2,0,1.0,6.0,1.0,2.0,Improve,thirties,10.0,0,1,135.1,fast
+23.0,YouTube Music,4.0,No,No,No,Hip hop,Yes,No,112.0,1,1,0,1,0,3,1,0,0,2,1,3,2,2,2,1,8.0,10.0,4.0,0.0,No effect,20-24,22.0,1,1,116.7,moderate
+34.0,I do not use a streaming service.,2.0,No,No,No,Video game music,No,Yes,100.0,1,1,1,0,0,2,1,1,0,1,1,0,0,2,1,3,8.0,10.0,10.0,0.0,No effect,thirties,28.0,0,1,122.4,moderate
+40.0,Other streaming service,3.0,Yes,No,No,Metal,Yes,Yes,120.0,0,0,0,0,0,0,2,0,2,0,3,1,1,0,2,0,3.0,0.0,8.0,1.0,No effect,forties,12.0,1,1,135.1,fast
+27.0,Spotify,1.0,No,No,No,Hip hop,Yes,No,112.0,2,0,1,0,0,3,1,0,0,1,0,2,3,3,0,0,3.0,4.0,1.0,0.0,Improve,25-29,8.0,1,1,120.1,moderate
+54.0,YouTube Music,10.0,Yes,No,No,Rock,Yes,No,120.0,2,2,0,1,0,0,1,0,0,0,1,1,2,0,2,0,2.0,1.0,2.0,2.0,Improve,pre_retirement,7.0,1,0,122.9,fast
+16.0,Spotify,10.0,No,No,No,Rock,Yes,No,105.0,1,3,0,3,1,1,2,0,0,0,3,2,1,1,3,0,0.0,0.0,0.0,0.0,No effect,teens under 18,0.0,1,1,121.2,moderate
+23.0,I do not use a streaming service.,10.0,Yes,No,No,Video game music,No,Yes,119.0,1,0,2,2,0,1,0,2,0,2,1,2,0,1,2,3,8.0,8.0,5.0,0.0,Improve,20-24,21.0,1,1,122.4,moderate
+35.0,Spotify,4.0,No,No,No,Country,Yes,No,109.0,0,3,0,1,0,0,0,0,0,0,2,2,0,0,2,1,1.0,1.0,1.0,0.0,No effect,thirties,3.0,0,1,110.0,moderate
+22.0,YouTube Music,4.0,Yes,No,No,Folk,Yes,Yes,137.0,1,2,3,3,0,2,2,0,1,2,3,3,2,2,3,2,8.0,7.0,6.0,2.0,Improve,20-24,23.0,2,3,123.2,fast
+41.0,Spotify,3.0,No,No,No,Metal,Yes,Yes,178.0,3,1,0,1,0,0,0,2,0,0,3,1,0,1,2,3,6.0,5.0,4.0,0.0,No effect,forties,15.0,1,1,128.0,extremely_fast
+63.0,Spotify,2.0,Yes,No,No,Rock,Yes,No,133.0,3,2,1,3,0,1,2,0,1,0,0,0,1,0,3,0,5.0,4.0,6.0,2.0,Improve,pre_retirement,17.0,2,0,120.2,fast
+28.0,Spotify,1.0,No,Yes,No,Rock,Yes,No,120.0,1,1,0,1,0,1,0,0,0,2,1,2,0,1,2,0,3.0,1.0,0.0,2.0,No effect,25-29,6.0,1,0,122.9,fast
+22.0,Spotify,6.0,Yes,Yes,No,Country,Yes,No,109.0,1,3,2,3,1,2,2,0,1,2,2,2,1,2,3,2,4.0,8.0,2.0,2.0,Improve,20-24,16.0,2,3,114.6,moderate
+58.0,YouTube Music,1.0,Yes,No,No,Rock,Yes,No,133.0,1,2,1,2,2,2,2,0,1,1,2,1,2,2,2,0,5.0,6.0,3.0,1.0,Improve,pre_retirement,15.0,1,2,122.9,fast
+58.0,YouTube Music,1.0,Yes,Yes,Yes,Classical,Yes,No,80.0,2,1,0,1,2,1,2,1,1,0,0,1,0,0,0,0,0.0,0.0,2.0,1.0,Improve,pre_retirement,3.0,2,0,119.6,slow
+67.0,Other streaming service,4.0,Yes,No,No,Rock,No,No,146.0,0,2,0,0,0,0,2,0,0,0,1,0,1,0,3,0,7.0,6.0,7.0,4.0,Improve,retired,24.0,1,0,122.9,fast
+70.0,I do not use a streaming service.,2.0,Yes,No,No,Country,No,No,88.0,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8.0,5.0,6.0,1.0,Improve,retired,20.0,1,0,110.0,moderate
+60.0,YouTube Music,2.0,Yes,No,No,Rock,No,Yes,132.0,2,2,0,2,1,0,1,0,1,0,1,2,2,1,3,1,4.0,4.0,2.0,0.0,Improve,pre_retirement,10.0,1,0,122.9,fast
+15.0,Spotify,2.0,Yes,Yes,Yes,Pop,Yes,No,102.0,1,1,2,0,2,1,2,2,0,0,0,3,2,0,2,3,9.0,8.0,10.0,9.0,Improve,teens under 18,36.0,1,1,119.8,moderate
+18.0,YouTube Music,6.0,Yes,No,No,EDM,Yes,Yes,91.0,3,1,3,1,2,3,2,0,2,3,2,3,3,3,2,3,5.0,5.0,7.0,0.0,Improve,teens adult,17.0,3,3,122.6,moderate
+58.0,Other streaming service,3.0,Yes,No,No,Hip hop,Yes,Yes,127.0,2,0,2,1,2,3,3,0,2,3,0,1,3,2,2,0,4.0,6.0,8.0,1.0,Improve,pre_retirement,19.0,3,2,116.2,fast
+28.0,Other streaming service,1.0,Yes,No,No,Lofi,Yes,Yes,82.0,2,1,1,1,1,2,2,1,2,3,1,2,2,1,2,2,4.0,8.0,5.0,0.0,Improve,25-29,17.0,3,1,114.3,slow
+22.0,Spotify,4.0,Yes,Yes,No,Lofi,Yes,No,141.0,1,1,0,2,0,1,2,0,0,3,1,2,1,1,3,0,9.0,10.0,6.0,7.0,Improve,20-24,32.0,2,0,117.2,fast
+49.0,YouTube Music,0.5,No,No,No,Classical,No,No,114.0,3,2,1,2,3,2,2,1,1,0,1,2,2,2,1,1,3.0,2.0,2.0,2.0,Improve,forties,9.0,2,1,115.5,moderate
+20.0,YouTube Music,8.0,Yes,No,No,Rock,Yes,Yes,148.0,0,1,1,2,0,0,1,0,0,1,2,1,2,0,3,2,6.0,2.0,2.0,1.0,Improve,20-24,11.0,0,1,122.9,fast
+55.0,YouTube Music,15.0,Yes,No,No,Rock,No,No,156.0,1,0,0,3,0,0,2,0,1,0,0,1,0,0,3,0,2.0,0.0,3.0,0.0,No effect,pre_retirement,5.0,1,0,120.4,extremely_fast
+48.0,Spotify,1.5,Yes,Yes,No,Metal,No,No,140.0,1,0,1,0,0,0,1,0,0,0,2,0,1,0,1,1,10.0,8.0,0.0,4.0,Improve,forties,22.0,0,1,135.1,fast
+14.0,Spotify,2.0,Yes,Yes,No,K pop,Yes,Yes,114.0,2,0,1,0,0,2,2,3,0,2,0,1,1,1,0,1,4.0,4.0,2.0,2.0,Improve,teens under 18,12.0,3,1,125.3,moderate
+18.0,Spotify,3.0,Yes,Yes,No,Pop,Yes,Yes,120.0,2,0,2,1,0,3,2,3,3,2,1,3,3,3,2,2,7.0,8.0,6.0,2.0,Improve,teens adult,23.0,3,2,126.9,fast
+25.0,Spotify,1.0,Yes,No,No,Pop,Yes,Yes,80.0,3,1,1,1,0,2,2,0,0,1,3,3,1,2,2,2,7.0,6.0,5.0,5.0,Improve,25-29,23.0,2,2,123.0,slow
+71.0,I do not use a streaming service.,0.25,Yes,No,No,Gospel,No,Yes,88.0,2,1,0,1,2,0,0,0,2,0,0,1,1,0,1,0,1.0,0.0,0.0,0.0,Improve,retired,1.0,1,0,107.5,moderate
+60.0,YouTube Music,1.0,No,Yes,Yes,Gospel,No,No,88.0,2,1,0,0,3,1,0,0,0,0,0,0,0,1,1,0,6.0,2.0,8.0,0.0,Improve,pre_retirement,16.0,1,0,107.5,moderate
+18.0,I do not use a streaming service.,1.0,Yes,No,Yes,Video game music,No,No,116.0,1,1,2,2,0,1,2,0,0,0,2,0,1,2,2,3,4.0,5.0,7.0,0.0,No effect,teens adult,16.0,1,2,122.4,moderate
+19.0,Spotify,5.0,Yes,No,No,Hip hop,No,Yes,99.0,1,3,2,1,1,3,0,1,3,0,1,2,2,3,1,2,10.0,7.0,0.0,0.0,Improve,teens adult,17.0,0,2,126.6,moderate
+74.0,I do not use a streaming service.,1.0,No,No,No,Pop,No,No,129.0,1,3,0,2,2,0,1,0,2,0,0,3,2,0,2,0,4.0,2.0,1.0,0.0,Improve,retired,7.0,0,0,115.7,fast
+36.0,Pandora,1.0,Yes,No,No,Hip hop,No,No,131.0,2,0,0,0,0,3,0,0,0,0,0,3,2,2,2,0,7.0,6.0,2.0,3.0,Improve,thirties,18.0,1,1,116.7,fast
+14.0,Spotify,7.0,Yes,No,No,Lofi,Yes,Yes,95.0,0,0,0,0,0,2,0,0,0,3,0,3,0,2,0,1,3.0,2.0,8.0,0.0,Improve,teens under 18,13.0,1,1,115.7,moderate
+20.0,Spotify,3.0,No,Yes,Yes,Hip hop,Yes,Yes,80.0,3,1,1,2,0,3,2,0,2,1,1,2,2,3,3,1,10.0,7.0,4.0,3.0,Improve,20-24,24.0,2,1,120.8,slow
+15.0,Spotify,3.0,Yes,No,No,K pop,Yes,Yes,124.0,1,0,1,0,0,3,2,3,0,0,0,1,2,3,2,3,4.0,0.0,0.0,0.0,No effect,teens under 18,4.0,1,1,123.8,fast
+19.0,I do not use a streaming service.,7.0,Yes,No,No,Rock,No,No,128.0,2,1,0,1,0,0,2,0,0,0,1,0,0,0,3,2,7.0,7.0,0.0,0.0,Improve,teens adult,14.0,2,0,122.9,fast
+29.0,Spotify,8.0,Yes,No,No,EDM,No,Yes,140.0,1,2,3,2,0,2,1,0,0,1,2,0,0,3,3,3,6.0,7.0,4.0,1.0,Improve,25-29,18.0,0,3,127.8,fast
+24.0,Spotify,2.0,Yes,No,No,Metal,Yes,No,159.0,0,1,3,2,3,0,0,0,0,1,3,1,0,0,2,1,7.0,6.0,2.0,7.0,Improve,20-24,22.0,0,2,127.4,extremely_fast
+18.0,Apple Music,2.0,Yes,No,No,Pop,Yes,Yes,104.0,1,1,1,1,1,3,1,1,2,1,2,3,3,3,3,0,6.0,5.0,8.0,0.0,Improve,teens adult,19.0,0,2,120.8,moderate
+21.0,Spotify,2.0,Yes,No,No,Rock,Yes,Yes,97.0,2,0,0,2,0,1,1,1,0,1,0,3,1,1,3,1,10.0,10.0,2.0,3.0,Improve,20-24,25.0,1,0,121.4,moderate
+19.0,Spotify,2.0,Yes,No,No,K pop,Yes,Yes,80.0,1,0,1,0,0,2,2,3,0,2,0,2,3,1,2,2,7.0,6.0,5.0,1.0,Improve,teens adult,19.0,2,1,123.2,slow
+25.0,Spotify,4.0,No,No,No,Video game music,Yes,Yes,134.0,2,0,0,1,1,0,0,1,3,0,0,3,2,0,0,3,3.0,0.0,0.0,0.0,Improve,25-29,3.0,1,0,131.2,fast
+28.0,Spotify,8.0,Yes,No,No,Rock,Yes,Yes,120.0,1,1,1,2,1,2,2,1,1,3,1,3,2,2,3,2,8.0,2.0,1.0,0.0,No effect,25-29,11.0,2,1,119.6,fast
+27.0,Other streaming service,4.0,Yes,No,No,Rap,Yes,No,135.0,1,0,0,0,0,2,1,2,0,2,0,1,0,3,1,1,7.0,6.0,6.0,5.0,Improve,25-29,24.0,1,1,130.1,fast
+60.0,Spotify,1.0,No,No,No,Rock,Yes,No,129.0,2,1,0,2,0,0,2,0,0,0,0,1,1,0,2,0,3.0,2.0,5.0,0.0,No effect,pre_retirement,10.0,2,0,122.9,fast
+25.0,YouTube Music,5.0,No,No,No,Metal,No,Yes,140.0,1,1,0,1,0,0,0,0,0,0,3,2,0,0,2,1,8.0,2.0,1.0,0.0,Improve,25-29,11.0,0,1,135.1,fast
+60.0,Other streaming service,2.0,Yes,No,No,Rock,No,No,120.0,1,2,0,0,0,0,0,0,0,0,2,1,2,0,3,0,7.0,7.0,2.0,4.0,Improve,pre_retirement,20.0,0,1,122.9,fast
+43.0,Other streaming service,1.0,No,No,No,Country,No,No,110.0,0,3,0,0,0,1,0,0,0,0,0,2,0,0,1,0,5.0,1.0,1.0,1.0,Improve,forties,8.0,0,0,110.0,moderate
+51.0,I do not use a streaming service.,5.0,Yes,No,No,Rock,No,No,180.0,2,1,0,2,0,0,1,0,0,0,2,1,1,0,3,1,1.0,2.0,1.0,0.0,No effect,pre_retirement,4.0,1,1,122.9,extremely_fast
+63.0,YouTube Music,8.0,Yes,No,No,Rock,Yes,No,120.0,2,2,1,1,0,0,1,0,1,1,0,2,1,0,2,0,2.0,1.0,2.0,2.0,Improve,pre_retirement,7.0,1,0,122.9,fast
+64.0,YouTube Music,2.0,Yes,No,No,Classical,No,No,118.0,3,0,1,3,0,1,1,0,1,1,0,3,1,0,1,0,5.0,2.0,4.0,0.0,Improve,pre_retirement,11.0,1,0,118.3,moderate
+22.0,Spotify,2.0,Yes,No,No,Pop,No,No,120.0,2,1,2,2,1,2,0,1,0,3,1,3,1,2,2,1,7.0,2.0,1.0,0.0,Improve,20-24,10.0,2,2,117.2,fast
+24.0,YouTube Music,1.0,Yes,No,No,Folk,No,Yes,103.0,2,0,3,3,1,2,2,1,1,3,1,2,1,2,3,3,10.0,10.0,7.0,8.0,Improve,20-24,35.0,3,2,120.4,moderate
+19.0,Spotify,8.0,Yes,No,No,Pop,Yes,Yes,99.0,1,2,2,3,0,3,0,3,2,1,1,3,2,3,3,1,7.0,2.0,1.0,6.0,Improve,teens adult,16.0,0,2,120.9,moderate
+56.0,Apple Music,8.0,Yes,No,No,Pop,Yes,No,117.0,2,1,1,2,0,2,2,1,1,1,2,2,2,2,2,0,6.0,4.0,1.0,0.0,Improve,pre_retirement,11.0,2,2,118.6,moderate
+20.0,Spotify,1.0,No,No,No,EDM,Yes,No,102.0,1,0,3,0,0,2,0,1,1,3,1,3,0,0,0,0,5.0,9.0,6.0,1.0,Improve,20-24,21.0,1,2,124.1,moderate
+19.0,I do not use a streaming service.,1.0,Yes,Yes,No,Video game music,No,No,127.0,3,0,0,1,1,2,2,1,1,3,0,2,2,1,1,3,7.0,5.0,7.0,0.0,Improve,teens adult,19.0,3,1,119.7,fast
+20.0,Spotify,8.0,Yes,No,No,Jazz,Yes,Yes,93.0,1,2,1,3,0,2,3,1,2,3,0,2,1,2,2,1,7.0,6.0,7.0,4.0,Improve,20-24,24.0,2,1,115.6,moderate
+60.0,Spotify,2.0,Yes,No,No,Rock,No,No,120.0,1,1,0,1,1,0,1,0,0,0,1,2,2,0,3,0,0.0,0.0,0.0,0.0,Improve,pre_retirement,0.0,0,0,122.9,fast
+65.0,Apple Music,6.0,Yes,No,No,R&B,No,Yes,146.0,1,1,0,1,1,1,1,1,2,0,0,2,3,0,2,0,3.0,5.0,0.0,2.0,No effect,retired,10.0,0,0,118.9,fast
+28.0,Spotify,3.0,No,Yes,Yes,Metal,Yes,Yes,140.0,3,0,1,2,1,1,3,1,2,3,3,1,2,0,3,3,8.0,8.0,5.0,2.0,Improve,25-29,23.0,3,1,123.6,fast
+18.0,I do not use a streaming service.,4.0,Yes,Yes,No,EDM,No,Yes,150.0,3,0,3,0,0,0,1,0,0,1,0,2,0,1,1,2,8.0,7.0,10.0,6.0,Improve,teens adult,31.0,1,1,127.7,extremely_fast
+42.0,Spotify,2.0,Yes,No,No,Rock,No,Yes,85.0,1,0,0,0,0,1,0,0,0,0,0,2,1,1,2,1,2.0,4.0,5.0,2.0,Improve,forties,13.0,0,0,122.9,moderate
+80.0,I do not use a streaming service.,3.0,Yes,Yes,No,Classical,No,No,122.0,3,1,0,1,0,0,1,1,0,1,1,2,0,0,0,2,7.0,3.0,9.0,2.0,Improve,retired,21.0,1,0,119.6,fast
+22.0,I do not use a streaming service.,4.0,No,No,Yes,Pop,Yes,No,120.0,1,2,3,2,0,1,0,0,0,0,1,3,3,1,2,0,8.0,7.0,4.0,4.0,Improve,20-24,23.0,0,1,122.0,fast
+56.0,Other streaming service,2.0,No,No,No,Jazz,Yes,Yes,120.0,2,0,2,2,1,0,3,0,1,1,1,2,1,0,2,1,0.0,0.0,0.0,5.0,No effect,pre_retirement,5.0,2,1,116.2,fast
+20.0,YouTube Music,1.0,Yes,No,No,Pop,No,Yes,120.0,0,0,2,0,0,1,2,3,1,1,0,3,2,1,1,0,8.0,6.0,9.0,8.0,Improve,20-24,31.0,1,1,120.8,fast
+15.0,Spotify,1.0,Yes,No,No,Video game music,Yes,Yes,150.0,0,1,2,0,0,2,1,0,0,3,2,2,1,1,3,3,4.0,2.0,3.0,2.0,Improve,teens under 18,11.0,1,3,120.5,extremely_fast
+67.0,I do not use a streaming service.,1.0,No,No,No,Rock,No,No,120.0,2,2,0,2,2,2,2,0,2,0,2,2,2,2,2,0,3.0,2.0,2.0,2.0,No effect,retired,9.0,2,2,122.9,fast
+57.0,Spotify,2.0,Yes,Yes,No,Gospel,No,No,174.0,2,0,0,1,3,0,2,0,1,0,0,2,2,0,1,0,6.0,4.0,10.0,0.0,Improve,pre_retirement,20.0,2,0,107.5,extremely_fast
+22.0,Apple Music,7.0,Yes,No,No,Pop,Yes,Yes,112.0,0,0,2,1,0,3,0,3,2,0,0,3,3,3,2,1,8.0,8.0,10.0,0.0,Improve,20-24,26.0,0,2,121.2,moderate
+17.0,Spotify,5.0,Yes,No,No,Pop,Yes,Yes,180.0,0,0,2,0,0,2,0,3,1,1,0,3,3,2,1,1,5.0,5.0,5.0,5.0,Improve,teens under 18,20.0,0,2,120.4,extremely_fast
+19.0,Spotify,3.0,Yes,No,No,Rock,No,No,121.0,0,3,0,1,2,0,0,0,0,0,1,3,0,2,3,2,10.0,8.0,6.0,2.0,No effect,teens adult,26.0,0,0,118.6,fast
+50.0,I do not use a streaming service.,1.0,No,No,No,Rock,No,No,98.0,2,2,0,0,0,3,2,1,1,0,1,3,2,2,3,0,0.0,0.0,7.0,0.0,Improve,pre_retirement,7.0,2,1,120.0,moderate
+24.0,Spotify,6.0,Yes,Yes,Yes,Rock,Yes,Yes,118.0,0,1,2,3,0,1,1,2,0,1,3,2,0,1,3,2,8.0,8.0,10.0,0.0,Improve,20-24,26.0,0,2,124.1,moderate
+67.0,Apple Music,2.0,No,No,No,Rock,Yes,No,120.0,2,0,0,0,0,1,0,0,0,0,2,2,0,0,2,0,8.0,2.0,0.0,0.0,No effect,retired,10.0,1,1,122.9,fast
+18.0,Other streaming service,3.0,Yes,Yes,Yes,Metal,Yes,No,135.0,2,2,0,1,1,1,0,0,0,0,3,0,1,1,1,0,7.0,8.0,4.0,10.0,Improve,teens adult,29.0,1,1,135.1,fast
+20.0,Spotify,1.5,Yes,No,No,Country,No,No,109.0,1,3,2,0,0,2,2,2,1,0,0,2,0,2,2,0,0.0,2.0,0.0,1.0,Improve,20-24,3.0,1,2,110.0,moderate
+15.0,Spotify,4.0,Yes,Yes,No,Pop,Yes,No,105.0,0,1,0,0,2,1,1,1,1,2,1,3,2,2,3,2,3.0,5.0,4.0,0.0,Improve,teens under 18,12.0,1,0,120.0,moderate
+17.0,Spotify,2.0,Yes,Yes,No,Pop,Yes,Yes,122.0,1,0,0,1,0,2,0,3,1,0,0,3,0,2,0,0,5.0,2.0,3.0,1.0,Improve,teens under 18,11.0,0,1,120.8,fast
+32.0,YouTube Music,2.0,Yes,No,No,Folk,Yes,No,115.0,0,0,2,2,0,2,2,0,1,2,0,2,2,2,2,2,6.0,1.0,0.0,0.0,Improve,thirties,7.0,2,2,115.4,moderate
+18.0,Spotify,2.0,No,No,No,Rap,Yes,Yes,136.0,1,0,0,0,0,3,1,0,0,0,1,2,1,3,1,3,6.0,3.0,4.0,2.0,Improve,teens adult,15.0,0,1,124.6,fast
+18.0,Spotify,1.0,Yes,Yes,Yes,Rock,Yes,No,165.0,2,0,2,0,0,1,1,0,0,1,3,2,0,1,3,1,5.0,6.0,8.0,2.0,Improve,teens adult,21.0,1,2,126.9,extremely_fast
+18.0,Spotify,3.0,Yes,No,No,K pop,Yes,Yes,130.0,2,0,0,0,0,2,0,3,0,1,0,2,3,1,2,1,8.0,4.0,7.0,5.0,Improve,teens adult,24.0,1,1,123.2,fast
+19.0,Spotify,3.0,Yes,No,No,Pop,Yes,No,120.0,0,0,3,0,0,3,1,1,1,1,1,3,2,3,1,2,1.0,1.0,2.0,3.0,Improve,teens adult,7.0,0,2,123.0,fast
+18.0,Spotify,2.0,No,Yes,No,Rock,Yes,No,115.0,0,0,0,0,0,1,0,0,0,0,2,2,1,1,3,0,8.0,3.0,1.0,3.0,Improve,teens adult,15.0,0,1,122.9,moderate
+17.0,Other streaming service,6.0,Yes,No,Yes,Rap,Yes,No,140.0,1,0,1,0,2,3,2,0,0,2,0,2,2,3,1,0,3.0,3.0,0.0,0.0,Improve,teens under 18,6.0,2,1,125.3,fast
+34.0,Spotify,3.0,Yes,No,No,Classical,No,Yes,95.0,3,0,0,0,0,0,1,0,0,1,2,1,0,0,2,2,0.0,0.0,0.0,0.0,No effect,thirties,0.0,1,1,119.6,moderate
+18.0,YouTube Music,3.0,Yes,No,No,Pop,No,No,150.0,1,1,2,1,0,3,1,1,0,1,1,3,1,3,1,2,5.0,4.0,2.0,0.0,No effect,teens adult,11.0,0,2,120.7,extremely_fast
+18.0,Spotify,2.0,Yes,No,No,R&B,Yes,No,97.0,0,0,0,0,2,3,1,0,1,1,0,2,3,3,1,0,2.0,4.0,0.0,0.0,Improve,teens adult,6.0,0,1,120.9,moderate
+22.0,I do not use a streaming service.,2.0,Yes,No,No,Video game music,No,No,120.0,2,1,1,0,3,1,2,1,1,1,0,1,0,0,0,3,4.0,6.0,0.0,2.0,Improve,20-24,12.0,2,0,117.4,fast
+18.0,Spotify,2.0,Yes,No,Yes,Pop,Yes,No,120.0,2,1,2,0,0,1,2,1,0,2,0,3,1,0,2,2,5.0,7.0,2.0,0.0,Improve,teens adult,14.0,3,1,118.6,fast
+19.0,Spotify,3.0,Yes,No,No,Rock,Yes,Yes,122.0,2,1,1,2,1,2,1,1,1,1,1,2,1,2,3,0,4.0,0.0,7.0,0.0,No effect,teens adult,11.0,1,1,122.9,fast
+25.0,I do not use a streaming service.,4.0,Yes,No,No,Pop,Yes,Yes,150.0,1,0,2,0,0,3,0,1,1,1,2,3,1,3,3,1,10.0,8.0,6.0,2.0,No effect,25-29,26.0,0,3,121.2,extremely_fast
+17.0,Spotify,2.0,Yes,Yes,Yes,R&B,Yes,No,116.0,3,1,0,1,1,1,2,2,1,2,1,3,3,1,2,0,3.0,3.0,1.0,0.0,Improve,teens under 18,7.0,3,0,119.0,moderate
+25.0,Spotify,5.0,Yes,Yes,No,Rock,Yes,No,125.0,2,2,1,0,0,2,0,1,0,1,2,2,0,2,3,2,8.0,7.0,2.0,1.0,Improve,25-29,18.0,1,2,122.9,fast
+18.0,Spotify,2.0,Yes,No,No,R&B,No,No,96.0,2,1,0,0,0,2,1,0,0,3,1,3,3,2,3,1,3.0,3.0,0.0,3.0,Improve,teens adult,9.0,2,1,118.7,moderate
+21.0,Spotify,1.0,No,No,No,K pop,Yes,Yes,124.0,1,1,2,1,0,3,1,3,1,1,2,3,2,2,3,1,4.0,5.0,2.0,5.0,No effect,20-24,16.0,0,3,121.5,fast
+24.0,Spotify,7.0,Yes,No,No,Folk,Yes,Yes,137.0,2,1,1,3,0,1,1,0,1,2,1,3,1,1,3,3,10.0,10.0,8.0,10.0,Improve,20-24,38.0,2,0,118.9,fast
+16.0,Spotify,3.0,Yes,Yes,No,K pop,No,Yes,174.0,1,0,2,0,0,1,2,3,2,2,0,3,1,2,0,0,10.0,2.0,7.0,8.0,Improve,teens under 18,27.0,2,1,123.1,extremely_fast
+18.0,Spotify,3.0,No,Yes,Yes,Metal,Yes,No,140.0,0,0,0,1,0,2,3,0,1,0,3,1,2,2,2,1,9.0,6.0,8.0,5.0,Improve,teens adult,28.0,1,2,128.8,fast
+18.0,Spotify,4.0,Yes,No,No,R&B,Yes,Yes,129.0,1,1,1,0,0,3,2,0,0,1,0,3,3,3,3,1,6.0,4.0,1.0,6.0,Improve,teens adult,17.0,1,1,120.9,fast
+16.0,Spotify,3.0,Yes,No,No,Pop,Yes,No,112.0,3,0,0,0,0,1,1,0,0,0,0,3,3,0,2,0,3.0,4.0,6.0,8.0,Improve,teens under 18,21.0,1,0,118.9,moderate
+68.0,Pandora,1.0,Yes,No,No,Gospel,No,No,88.0,3,0,0,2,3,0,0,0,2,0,0,0,0,0,0,0,10.0,10.0,10.0,0.0,Improve,retired,30.0,1,0,111.5,moderate
+16.0,Spotify,7.0,Yes,No,No,Video game music,Yes,No,120.0,0,1,2,1,0,1,1,0,0,0,3,2,0,3,1,2,4.0,8.0,8.0,4.0,No effect,teens under 18,24.0,0,2,129.2,fast
+21.0,Spotify,1.0,No,No,No,R&B,Yes,Yes,81.0,0,0,0,0,1,3,0,0,0,0,0,3,3,2,0,0,3.0,0.0,0.0,0.0,Improve,20-24,3.0,0,1,118.0,slow
+53.0,Pandora,4.0,Yes,No,No,R&B,Yes,Yes,153.0,1,2,1,1,1,3,1,2,1,0,2,1,2,2,2,1,1.0,0.0,0.0,0.0,Improve,pre_retirement,1.0,0,2,117.3,extremely_fast
+29.0,Spotify,4.0,Yes,No,No,Classical,Yes,No,120.0,3,0,3,0,0,0,2,0,1,1,0,2,0,0,1,1,5.0,6.0,7.0,7.0,No effect,25-29,25.0,2,1,123.7,fast
+18.0,Spotify,3.0,Yes,No,No,Video game music,Yes,Yes,89.0,2,0,0,0,0,0,2,1,0,3,0,1,2,0,0,3,7.0,0.0,3.0,1.0,No effect,teens adult,11.0,3,0,119.7,moderate
+29.0,Spotify,2.0,Yes,No,No,Pop,No,No,120.0,0,0,1,1,0,3,0,0,0,2,1,3,0,3,0,3,10.0,8.0,8.0,9.0,Improve,25-29,35.0,1,1,121.1,fast
+18.0,Spotify,4.0,Yes,Yes,No,R&B,Yes,Yes,169.0,1,2,3,0,1,3,1,2,2,2,1,2,3,2,1,2,3.0,0.0,3.0,4.0,Improve,teens adult,10.0,1,2,121.4,extremely_fast
+22.0,Spotify,5.0,Yes,No,No,EDM,Yes,Yes,138.0,0,0,3,0,0,3,0,0,0,3,0,3,3,3,3,2,1.0,0.0,0.0,1.0,No effect,20-24,2.0,1,2,123.0,fast
+19.0,Other streaming service,6.0,Yes,No,No,Pop,No,No,124.0,2,1,1,1,3,2,1,2,3,1,1,3,2,2,2,2,6.0,6.0,0.0,0.0,Improve,teens adult,12.0,1,1,126.5,fast
+13.0,YouTube Music,1.0,Yes,No,No,Video game music,Yes,No,120.0,0,0,2,0,0,1,2,0,0,2,1,1,1,0,2,3,4.0,3.0,4.0,0.0,Improve,teens under 18,11.0,2,1,122.4,fast
+26.0,I do not use a streaming service.,1.0,No,No,No,Pop,No,No,120.0,0,1,2,2,0,1,1,2,2,3,0,3,1,1,2,0,6.0,4.0,0.0,0.0,Improve,25-29,10.0,1,1,117.2,fast
+14.0,Spotify,3.0,Yes,No,No,Rock,Yes,No,76.0,0,0,0,0,0,2,1,0,0,0,1,2,0,0,3,2,2.0,6.0,3.0,0.0,Worsen,teens under 18,11.0,0,1,122.9,slow
+27.0,Spotify,1.0,Yes,No,No,Pop,Yes,Yes,119.0,1,1,1,0,1,2,1,3,0,2,0,3,2,2,2,3,8.0,3.0,3.0,3.0,Improve,25-29,17.0,1,1,121.2,moderate
+26.0,Spotify,8.0,No,No,No,Rock,No,Yes,172.0,0,2,2,3,0,3,1,3,0,0,2,2,3,3,3,3,8.0,10.0,7.0,3.0,No effect,25-29,28.0,0,3,121.7,extremely_fast
+59.0,Other streaming service,1.0,No,Yes,No,Rock,No,No,79.0,1,0,0,1,2,0,1,0,1,0,0,1,1,0,3,0,1.0,0.0,0.0,1.0,Improve,pre_retirement,2.0,0,0,122.9,slow
+30.0,Spotify,8.0,Yes,Yes,Yes,Rock,Yes,No,112.0,2,2,0,1,0,2,2,0,2,2,1,2,2,2,3,0,8.0,6.0,6.0,8.0,Improve,thirties,28.0,3,1,122.9,moderate
+27.0,Spotify,1.0,Yes,No,No,Pop,Yes,Yes,130.0,0,1,2,0,0,2,0,1,2,0,0,3,2,2,2,0,6.0,3.0,1.0,7.0,Improve,25-29,17.0,0,2,118.6,fast
+18.0,Apple Music,1.0,No,Yes,No,Rap,Yes,Yes,116.0,1,0,0,0,0,2,0,0,1,2,0,2,0,3,0,2,2.0,0.0,3.0,0.0,Improve,teens adult,5.0,1,1,130.1,moderate
+23.0,I do not use a streaming service.,10.0,Yes,Yes,Yes,Metal,No,Yes,165.0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,2,0,0.0,0.0,0.0,0.0,No effect,20-24,0.0,0,1,135.1,extremely_fast
+18.0,Spotify,10.0,Yes,Yes,Yes,Rock,Yes,No,110.0,2,2,2,2,1,2,2,2,1,1,3,3,2,2,3,0,10.0,10.0,6.0,6.0,Improve,teens adult,32.0,2,3,124.8,moderate
+40.0,Spotify,5.0,Yes,No,No,Rock,Yes,Yes,174.0,2,2,2,2,0,3,1,1,2,1,2,3,2,3,3,1,3.0,0.0,0.0,1.0,Improve,forties,4.0,1,3,122.0,extremely_fast
+24.0,Spotify,10.0,Yes,No,No,Rock,Yes,Yes,180.0,2,0,0,1,0,0,0,0,0,1,2,2,0,0,3,2,7.0,9.0,10.0,0.0,Improve,20-24,26.0,1,1,122.9,extremely_fast
+23.0,Spotify,2.0,Yes,Yes,No,Classical,Yes,Yes,171.0,3,0,1,1,0,0,2,0,1,2,0,3,1,0,3,0,8.0,7.0,6.0,2.0,Improve,20-24,23.0,3,0,120.1,extremely_fast
+56.0,Other streaming service,6.0,Yes,No,No,R&B,No,No,116.0,0,0,0,0,0,2,1,0,0,0,0,0,2,0,0,0,2.0,0.0,10.0,10.0,Improve,pre_retirement,22.0,0,1,118.9,moderate
+29.0,Other streaming service,2.0,Yes,No,No,R&B,Yes,No,116.0,1,0,3,0,0,3,1,1,2,2,0,3,3,1,0,2,10.0,7.0,9.0,3.0,No effect,25-29,29.0,1,2,120.8,moderate
+16.0,Other streaming service,3.0,Yes,No,No,Pop,No,Yes,120.0,0,0,0,0,0,3,0,3,0,0,0,3,2,0,0,0,6.0,0.0,0.0,0.0,Improve,teens under 18,6.0,0,1,119.5,fast
+18.0,Spotify,8.0,Yes,Yes,Yes,Gospel,Yes,Yes,88.0,1,0,1,0,3,2,2,0,2,3,0,2,3,2,0,2,3.0,0.0,2.0,2.0,Improve,teens adult,7.0,2,1,112.1,moderate
+21.0,Spotify,8.0,Yes,No,No,Lofi,Yes,Yes,162.0,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,6.0,5.0,9.0,8.0,Improve,20-24,28.0,3,3,122.3,extremely_fast
+32.0,Spotify,8.0,Yes,No,No,Rock,Yes,No,101.0,0,0,0,1,0,2,0,0,0,0,2,1,1,2,3,2,7.0,6.0,5.0,8.0,Improve,thirties,26.0,0,2,122.9,moderate
+22.0,YouTube Music,8.0,Yes,Yes,No,Metal,Yes,No,110.0,2,0,2,1,1,1,2,0,0,0,3,1,1,0,3,3,10.0,7.0,8.0,6.0,Improve,20-24,31.0,2,2,128.9,moderate
+17.0,Spotify,12.0,Yes,Yes,No,Latin,Yes,No,172.0,3,0,1,1,2,3,0,1,3,1,2,1,0,3,3,2,0.0,3.0,9.0,5.0,No effect,teens under 18,17.0,1,2,135.2,extremely_fast
+18.0,Spotify,6.0,Yes,No,No,EDM,Yes,Yes,90.0,1,0,3,0,0,2,1,3,3,3,0,3,3,3,1,2,0.0,2.0,1.0,5.0,Improve,teens adult,8.0,1,2,129.0,moderate
+18.0,Spotify,4.0,Yes,Yes,No,R&B,No,Yes,135.0,2,1,2,0,2,2,0,3,3,1,0,2,3,3,0,1,2.0,0.0,0.0,0.0,No effect,teens adult,2.0,1,2,130.9,fast
+24.0,Spotify,8.0,Yes,No,No,Jazz,Yes,No,81.0,3,0,1,0,0,3,3,0,1,3,0,1,2,2,3,1,2.0,2.0,4.0,0.0,No effect,20-24,8.0,3,1,117.5,slow
+21.0,Spotify,2.0,No,No,No,Pop,No,No,170.0,1,0,0,0,1,2,0,0,0,2,2,3,2,2,3,2,5.0,6.0,3.0,4.0,No effect,20-24,18.0,1,2,120.0,extremely_fast
+46.0,I do not use a streaming service.,1.0,No,No,No,Rock,No,No,120.0,0,2,0,0,0,0,0,0,0,0,0,2,0,0,2,0,0.0,0.0,1.0,0.0,No effect,forties,1.0,0,0,122.9,fast
+18.0,Spotify,2.0,Yes,Yes,No,Hip hop,Yes,No,90.0,0,0,0,0,2,3,0,0,0,2,0,2,3,3,0,0,5.0,4.0,3.0,7.0,Improve,teens adult,19.0,1,1,120.1,moderate
+16.0,Spotify,3.0,Yes,Yes,No,K pop,Yes,Yes,115.0,1,0,1,0,0,3,3,3,0,2,0,3,3,3,3,2,2.0,7.0,0.0,0.0,Improve,teens under 18,9.0,2,1,121.6,moderate
+21.0,Spotify,1.0,Yes,No,No,Video game music,Yes,Yes,120.0,3,3,1,2,1,2,2,0,0,3,1,2,0,2,2,3,0.0,6.0,0.0,4.0,Improve,20-24,10.0,3,1,117.7,fast
+19.0,I do not use a streaming service.,0.0,No,No,No,Classical,Yes,Yes,118.0,3,1,2,1,1,2,1,1,1,1,0,1,1,1,1,1,0.0,0.0,0.0,0.0,Improve,teens adult,0.0,1,2,119.6,moderate
+20.0,Spotify,2.0,Yes,Yes,Yes,Rap,Yes,Yes,132.0,2,0,1,0,0,2,2,0,0,1,0,2,2,3,2,2,7.0,5.0,1.0,3.0,Improve,20-24,16.0,2,1,130.1,fast
+21.0,Other streaming service,0.1,Yes,Yes,No,Folk,No,Yes,115.0,2,0,0,3,2,1,0,0,0,0,0,1,0,1,2,0,7.0,5.0,3.0,1.0,No effect,20-24,16.0,1,0,115.4,moderate
+56.0,I do not use a streaming service.,2.0,Yes,No,No,Rock,No,Yes,120.0,1,0,0,0,0,0,0,0,0,0,3,0,0,1,3,0,3.0,3.0,1.0,8.0,No effect,pre_retirement,15.0,0,1,126.9,fast
+21.0,Spotify,12.0,Yes,No,No,Rock,Yes,Yes,160.0,2,1,3,1,1,2,2,1,0,2,3,2,1,2,3,1,7.0,10.0,4.0,7.0,Worsen,20-24,28.0,3,3,128.2,extremely_fast
+20.0,Spotify,1.0,Yes,No,No,Pop,Yes,No,121.0,1,0,0,3,0,1,1,1,0,2,1,3,1,1,3,0,3.0,2.0,3.0,0.0,Improve,20-24,8.0,1,0,118.9,fast
+21.0,Apple Music,1.0,Yes,No,No,Rock,No,No,105.0,2,0,1,0,0,1,1,0,0,0,1,2,0,0,3,1,5.0,1.0,1.0,9.0,Improve,20-24,16.0,1,0,122.9,moderate
+25.0,Spotify,3.0,Yes,No,No,Rock,No,No,110.0,0,1,0,2,0,0,0,0,0,2,0,1,0,0,3,2,8.0,9.0,4.0,10.0,Improve,25-29,31.0,1,0,122.9,moderate
+33.0,Spotify,2.0,Yes,No,No,Metal,Yes,Yes,134.0,1,0,0,2,0,2,1,0,0,0,3,2,2,2,3,2,4.0,8.0,0.0,0.0,Improve,thirties,12.0,0,2,131.0,fast
+20.0,Spotify,2.0,Yes,No,No,Rock,Yes,Yes,148.0,1,1,1,1,0,2,2,1,2,2,3,3,2,2,3,1,7.0,9.0,7.0,0.0,Improve,20-24,23.0,2,2,124.8,fast
+17.0,Spotify,3.0,Yes,Yes,No,Rock,Yes,No,120.0,2,2,2,0,0,0,0,1,0,1,3,3,0,1,3,0,1.0,5.0,6.0,4.0,No effect,teens under 18,16.0,1,2,124.8,fast
+24.0,YouTube Music,1.0,No,No,No,Jazz,Yes,Yes,122.0,1,0,2,1,0,0,2,1,0,1,1,2,1,0,2,3,3.0,2.0,1.0,0.0,No effect,20-24,6.0,1,1,119.3,fast
+26.0,Spotify,3.0,Yes,Yes,Yes,Jazz,Yes,Yes,90.0,1,1,1,1,0,2,3,0,2,1,3,1,2,1,3,1,6.0,8.0,0.0,0.0,Improve,25-29,14.0,1,2,122.6,moderate
+17.0,YouTube Music,3.0,Yes,No,No,Rock,No,No,122.0,1,1,0,1,0,1,1,0,0,1,3,2,0,2,3,3,6.0,3.0,6.0,0.0,Improve,teens under 18,15.0,0,1,125.8,fast
+16.0,Spotify,5.0,Yes,Yes,Yes,Metal,Yes,Yes,129.0,2,0,0,1,0,1,2,0,0,1,3,2,0,2,3,2,7.0,4.0,8.0,0.0,Improve,teens under 18,19.0,2,1,131.0,fast
+27.0,Spotify,8.0,Yes,No,No,Metal,Yes,No,132.0,0,0,1,0,0,2,0,0,0,0,3,3,3,1,2,0,2.0,6.0,9.0,1.0,No effect,25-29,18.0,0,2,126.9,fast
+28.0,Spotify,4.0,Yes,No,No,Hip hop,Yes,Yes,178.0,1,2,2,1,0,3,0,0,3,2,1,3,1,3,2,1,8.0,5.0,3.0,8.0,Improve,25-29,24.0,1,2,128.3,extremely_fast
+48.0,I do not use a streaming service.,5.0,Yes,No,Yes,Rock,Yes,Yes,120.0,3,2,2,3,0,2,1,0,1,0,1,1,1,1,3,1,3.0,3.0,0.0,0.0,Improve,forties,6.0,1,2,120.2,fast
+19.0,Spotify,3.0,Yes,No,No,Rap,No,Yes,115.0,0,0,1,1,0,2,0,1,0,3,2,3,2,3,2,2,7.0,5.0,3.0,3.0,Improve,teens adult,18.0,1,2,123.3,moderate
+21.0,YouTube Music,4.0,Yes,No,No,Rock,Yes,Yes,137.0,2,3,1,3,0,2,0,0,0,1,2,3,2,2,3,1,4.0,8.0,2.0,3.0,Improve,20-24,17.0,1,2,117.9,fast
+21.0,I do not use a streaming service.,1.0,Yes,Yes,No,Classical,No,No,92.0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3.0,0.0,0.0,5.0,Improve,20-24,8.0,1,0,119.6,moderate
+15.0,Spotify,4.0,Yes,No,No,Metal,Yes,Yes,140.0,1,0,2,1,0,1,0,1,0,0,3,2,2,2,3,1,10.0,7.0,3.0,2.0,Improve,teens under 18,22.0,0,2,131.0,fast
+20.0,Spotify,1.0,No,No,No,Rock,Yes,Yes,130.0,2,2,1,3,1,1,3,0,0,0,0,3,1,1,3,0,10.0,4.0,8.0,0.0,Improve,20-24,22.0,2,0,119.2,fast
+21.0,YouTube Music,2.0,Yes,Yes,No,Video game music,No,Yes,120.0,2,0,1,2,1,0,1,0,2,2,1,3,2,0,3,3,2.0,2.0,0.0,0.0,Improve,20-24,4.0,2,0,121.6,fast
+22.0,Spotify,6.0,Yes,No,No,Folk,Yes,No,115.0,0,1,2,3,0,1,1,0,2,2,0,1,1,1,3,2,8.0,7.0,7.0,3.0,Improve,20-24,25.0,1,1,117.9,moderate
+22.0,Spotify,2.0,No,No,No,Rock,No,No,119.0,1,0,0,0,0,1,1,1,0,0,3,3,0,0,3,2,10.0,5.0,2.0,8.0,Improve,20-24,25.0,0,1,124.8,moderate
+31.0,Spotify,1.0,Yes,No,No,Rock,Yes,No,120.0,3,1,2,1,0,1,1,1,1,2,2,2,0,3,3,3,9.0,10.0,10.0,6.0,No effect,thirties,35.0,2,2,123.6,fast
+20.0,YouTube Music,4.0,Yes,Yes,No,Metal,Yes,No,180.0,1,2,0,0,0,0,1,0,0,0,3,0,0,0,3,2,5.0,2.0,1.0,6.0,Improve,20-24,14.0,0,1,131.0,extremely_fast
+49.0,I do not use a streaming service.,8.0,Yes,Yes,Yes,Classical,No,No,118.0,3,0,0,0,0,0,1,0,0,0,1,1,0,0,1,0,4.0,8.0,9.0,1.0,Improve,forties,22.0,1,0,119.6,moderate
+42.0,Spotify,2.0,Yes,No,No,Metal,Yes,Yes,85.0,2,1,0,0,1,1,0,2,2,1,3,3,2,0,3,3,7.0,8.0,5.0,3.0,Improve,forties,23.0,1,1,126.8,moderate
+26.0,Spotify,2.0,Yes,No,No,EDM,Yes,Yes,128.0,1,2,3,2,0,2,1,0,2,1,1,2,1,2,3,0,2.0,2.0,0.0,3.0,No effect,25-29,7.0,0,2,128.8,fast
+17.0,Spotify,10.0,Yes,No,Yes,K pop,Yes,Yes,150.0,1,2,1,1,0,3,0,3,1,2,3,3,2,3,3,2,10.0,3.0,0.0,4.0,Improve,teens under 18,17.0,1,2,124.7,extremely_fast
+30.0,I do not use a streaming service.,0.0,No,No,No,Metal,No,No,140.0,1,0,1,0,0,0,0,0,0,0,2,0,0,1,1,1,10.0,10.0,10.0,9.0,Improve,thirties,39.0,0,1,135.1,fast
+23.0,Spotify,6.0,Yes,No,No,Folk,Yes,Yes,92.0,2,2,1,2,0,2,2,2,1,1,1,2,2,2,2,1,3.0,7.0,7.0,4.0,No effect,20-24,21.0,2,1,115.4,moderate
+30.0,Apple Music,3.0,Yes,No,No,EDM,Yes,Yes,121.0,1,0,3,0,1,2,0,3,0,0,1,3,2,2,2,0,7.0,5.0,7.0,7.0,Improve,thirties,26.0,0,2,126.9,fast
+31.0,Spotify,2.0,Yes,No,No,Metal,No,Yes,155.0,1,2,0,3,0,1,1,0,0,0,3,3,3,1,3,2,7.0,4.0,8.0,8.0,Improve,thirties,27.0,0,1,124.3,extremely_fast
+42.0,Other streaming service,0.25,No,Yes,No,Classical,Yes,Yes,150.0,3,1,0,0,0,0,2,0,1,0,1,2,1,1,2,0,7.0,9.0,4.0,5.0,Improve,forties,25.0,2,0,119.6,extremely_fast
+16.0,Other streaming service,4.0,Yes,No,No,EDM,Yes,Yes,130.0,2,0,3,0,0,0,0,1,0,0,0,0,0,0,0,2,4.0,7.0,1.0,3.0,Improve,teens under 18,15.0,1,1,131.8,fast
+34.0,YouTube Music,2.0,No,No,No,Metal,Yes,No,136.0,2,1,0,2,0,1,1,1,1,0,3,2,1,1,3,0,5.0,9.0,9.0,6.0,Improve,thirties,29.0,1,1,131.0,fast
+21.0,YouTube Music,2.0,Yes,No,No,Pop,Yes,No,121.0,2,0,3,1,0,1,1,1,2,1,2,3,3,1,2,2,5.0,4.0,10.0,7.0,No effect,20-24,26.0,1,2,122.0,fast
+27.0,YouTube Music,3.0,Yes,No,No,Pop,No,No,113.0,1,1,1,1,0,3,1,1,1,1,1,3,3,2,2,1,7.0,2.0,0.0,1.0,Improve,25-29,10.0,0,1,117.9,moderate
+18.0,Spotify,6.0,Yes,No,No,Folk,Yes,Yes,80.0,0,3,3,3,2,2,1,1,1,2,2,3,2,2,3,2,8.0,6.0,0.0,2.0,Improve,teens adult,16.0,1,3,119.0,slow
+26.0,Spotify,3.0,No,No,No,Metal,Yes,No,140.0,1,3,0,3,1,2,2,0,0,1,3,1,1,2,3,1,1.0,3.0,10.0,0.0,No effect,25-29,14.0,1,2,123.7,fast
+37.0,Spotify,2.0,Yes,No,No,Rock,Yes,No,100.0,0,0,0,0,0,1,0,0,0,0,2,2,1,1,2,0,8.0,10.0,10.0,2.0,Worsen,thirties,30.0,0,1,122.9,moderate
+26.0,Spotify,5.0,Yes,Yes,No,Folk,Yes,Yes,92.0,2,1,1,3,0,3,3,0,1,1,2,2,2,3,3,1,4.0,7.0,6.0,0.0,No effect,25-29,17.0,2,2,119.3,moderate
+19.0,Spotify,4.0,No,No,No,Pop,No,Yes,120.0,0,0,2,0,0,2,2,2,2,1,0,3,2,2,2,2,9.0,6.0,3.0,0.0,No effect,teens adult,18.0,1,2,118.6,fast
+22.0,Spotify,4.0,Yes,No,No,Rock,Yes,No,93.0,0,1,0,0,0,1,0,0,0,1,2,3,1,1,3,3,10.0,7.0,4.0,4.0,Improve,20-24,25.0,0,1,121.7,moderate
+43.0,I do not use a streaming service.,0.0,No,No,No,Rock,No,No,120.0,1,0,0,0,0,1,0,0,0,0,0,2,1,1,2,0,1.0,2.0,2.0,0.0,No effect,forties,5.0,0,0,122.9,fast
+24.0,I do not use a streaming service.,12.0,Yes,Yes,Yes,Rock,Yes,No,136.0,2,1,0,2,1,1,1,0,1,0,3,3,1,1,3,3,7.0,10.0,0.0,8.0,Improve,20-24,25.0,1,1,124.4,fast
+21.0,I do not use a streaming service.,0.5,No,No,No,Pop,No,No,108.0,0,0,0,0,0,0,0,2,0,0,0,2,0,0,0,0,10.0,2.0,1.0,10.0,Worsen,20-24,23.0,0,0,118.6,moderate
+28.0,I do not use a streaming service.,1.0,Yes,No,No,Rock,No,No,147.0,1,1,0,1,0,0,0,0,0,0,0,2,0,0,2,0,2.0,1.0,2.0,2.0,Improve,25-29,7.0,0,0,122.9,fast
+23.0,YouTube Music,3.0,Yes,No,No,R&B,Yes,Yes,93.0,3,0,0,3,0,3,3,0,1,3,1,3,3,3,2,1,3.0,10.0,0.0,0.0,No effect,20-24,13.0,3,1,118.6,moderate
+20.0,Apple Music,12.0,No,No,No,Rock,Yes,Yes,98.0,0,2,1,2,2,2,2,1,0,0,2,3,2,2,3,2,7.0,10.0,2.0,0.0,Improve,20-24,19.0,1,2,121.4,moderate
+17.0,Spotify,4.0,Yes,Yes,Yes,Metal,No,No,120.0,0,1,3,0,0,0,1,0,0,1,3,2,0,0,3,2,4.0,2.0,0.0,0.0,Improve,teens under 18,6.0,0,2,131.2,fast
+19.0,Spotify,3.0,Yes,No,No,R&B,No,No,130.0,1,1,1,1,1,1,1,1,0,0,0,2,2,2,2,1,4.0,2.0,5.0,3.0,Improve,teens adult,14.0,0,0,118.9,fast
+32.0,Spotify,1.0,Yes,No,No,Metal,Yes,Yes,140.0,2,2,2,2,0,1,0,3,1,0,3,1,1,2,3,1,6.0,8.0,7.0,0.0,Improve,thirties,21.0,1,2,129.6,fast
+18.0,YouTube Music,4.0,No,No,No,Folk,Yes,Yes,123.0,2,3,2,3,1,2,2,0,0,2,3,3,1,1,3,3,8.0,6.0,4.0,0.0,Improve,teens adult,18.0,3,3,120.0,fast
+20.0,Other streaming service,2.0,Yes,Yes,Yes,Rock,Yes,No,135.0,2,1,0,1,0,0,1,1,0,0,0,3,0,0,3,2,2.0,2.0,0.0,0.0,No effect,20-24,4.0,1,0,121.4,fast
+27.0,Spotify,3.0,Yes,No,No,Rock,Yes,Yes,105.0,1,0,3,1,0,1,1,0,0,3,3,1,1,1,3,3,8.0,7.0,9.0,3.0,Improve,25-29,27.0,1,2,124.9,moderate
+15.0,Spotify,3.0,Yes,Yes,No,Rock,No,Yes,132.0,2,0,0,0,0,0,0,0,0,1,3,0,0,0,3,1,4.0,3.0,5.0,0.0,No effect,teens under 18,12.0,1,1,126.9,fast
+26.0,Spotify,1.0,Yes,No,No,Rock,Yes,Yes,120.0,1,1,2,2,0,0,0,0,1,3,1,3,1,1,3,2,6.0,1.0,0.0,4.0,No effect,25-29,11.0,1,1,119.6,fast
+24.0,Spotify,2.0,Yes,No,No,Pop,Yes,Yes,115.0,0,0,0,0,0,2,1,1,0,1,0,3,3,2,1,1,6.0,6.0,3.0,6.0,Improve,20-24,21.0,0,1,118.7,moderate
+20.0,Spotify,1.0,Yes,No,No,K pop,Yes,Yes,120.0,2,0,1,0,2,0,1,3,0,2,0,3,2,0,1,0,8.0,7.0,1.0,1.0,No effect,20-24,17.0,2,0,123.1,fast
+21.0,YouTube Music,0.5,Yes,No,No,Pop,Yes,Yes,120.0,0,1,0,1,0,1,1,1,0,2,0,3,1,1,2,1,5.0,3.0,4.0,1.0,Improve,20-24,13.0,1,0,118.6,fast
+16.0,Spotify,2.0,Yes,No,No,Video game music,No,No,149.0,3,0,0,0,0,0,0,0,0,0,0,1,0,1,0,3,6.0,2.0,4.0,3.0,Improve,teens under 18,15.0,1,0,121.4,fast
+21.0,Spotify,11.0,Yes,Yes,Yes,Metal,Yes,Yes,125.0,1,1,2,1,1,3,2,1,1,3,3,3,2,3,3,3,5.0,6.0,6.0,0.0,Improve,20-24,17.0,2,3,124.3,fast
+27.0,Spotify,10.0,Yes,Yes,Yes,Jazz,Yes,Yes,132.0,3,0,0,3,1,1,3,1,1,2,2,2,2,1,2,2,6.0,10.0,8.0,1.0,Improve,25-29,25.0,3,1,116.9,fast
+17.0,Spotify,5.0,Yes,Yes,No,Rock,Yes,No,110.0,3,1,1,2,1,3,3,0,1,3,2,2,3,3,3,2,7.0,3.0,9.0,7.0,Improve,teens under 18,26.0,3,2,120.1,moderate
+21.0,Spotify,1.5,Yes,Yes,No,Classical,Yes,Yes,110.0,3,1,3,3,2,2,3,0,1,2,1,3,1,2,2,2,4.0,6.0,0.0,0.0,No effect,20-24,10.0,3,2,120.2,moderate
+17.0,Spotify,2.0,Yes,No,No,Folk,Yes,Yes,116.0,3,2,0,3,2,1,3,0,2,2,0,3,1,0,2,1,9.0,4.0,0.0,1.0,Improve,teens under 18,14.0,3,0,117.1,moderate
+21.0,Spotify,3.0,No,No,No,Rap,Yes,Yes,145.0,2,0,0,1,0,3,0,0,0,2,1,2,2,3,1,2,9.0,7.0,7.0,5.0,Improve,20-24,28.0,2,1,125.3,fast
+17.0,YouTube Music,2.0,No,No,Yes,Rock,Yes,No,120.0,2,2,2,3,1,2,2,0,0,0,2,2,2,2,3,2,5.0,10.0,2.0,7.0,No effect,teens under 18,24.0,2,3,120.4,fast
+36.0,YouTube Music,3.0,Yes,No,No,Country,No,Yes,105.0,3,3,2,0,0,1,0,3,2,0,0,1,2,0,0,0,1.0,0.0,1.0,0.0,Improve,thirties,2.0,1,1,116.2,moderate
+18.0,Spotify,4.0,No,No,No,R&B,Yes,Yes,80.0,1,0,1,0,2,3,0,3,0,1,0,3,3,3,0,0,8.0,7.0,2.0,6.0,Improve,teens adult,23.0,0,1,121.3,slow
+18.0,Spotify,1.0,No,No,No,K pop,No,Yes,100.0,0,0,1,0,0,3,0,3,0,2,0,2,2,1,1,0,5.0,1.0,4.0,0.0,Improve,teens adult,10.0,1,1,122.1,moderate
+18.0,Apple Music,5.0,Yes,Yes,No,Latin,Yes,Yes,156.0,3,2,1,0,0,2,1,2,3,2,0,3,2,1,2,0,10.0,6.0,0.0,0.0,Improve,teens adult,16.0,2,1,140.2,extremely_fast
+18.0,Apple Music,2.0,Yes,No,No,R&B,Yes,No,80.0,0,0,0,0,0,2,0,3,0,0,0,3,3,3,0,0,7.0,5.0,5.0,5.0,Improve,teens adult,22.0,0,1,122.4,slow
+18.0,Spotify,7.0,Yes,No,No,Hip hop,Yes,Yes,112.0,3,1,0,0,1,3,3,1,0,2,0,2,2,2,1,1,3.0,1.0,0.0,3.0,Improve,teens adult,7.0,3,1,116.8,moderate
+18.0,Spotify,2.0,Yes,No,No,Rap,Yes,Yes,132.0,1,0,1,0,0,2,1,1,0,2,0,2,1,3,0,1,5.0,8.0,7.0,4.0,Improve,teens adult,24.0,1,1,130.1,fast
+18.0,I do not use a streaming service.,1.0,Yes,No,No,Classical,No,No,120.0,2,2,1,1,1,2,2,1,1,3,0,1,1,1,1,1,2.0,0.0,0.0,5.0,No effect,teens adult,7.0,3,1,116.9,fast
+18.0,I do not use a streaming service.,1.0,No,Yes,No,Classical,No,No,117.0,3,0,2,0,0,2,1,0,0,0,0,2,0,1,0,1,7.0,0.0,0.0,0.0,No effect,teens adult,7.0,1,2,119.6,moderate
+18.0,Spotify,4.0,Yes,No,No,R&B,No,No,116.0,0,1,0,0,0,3,0,0,0,3,0,2,3,2,0,0,8.0,0.0,0.0,2.0,No effect,teens adult,10.0,1,1,117.0,moderate
+20.0,Spotify,6.0,Yes,No,No,R&B,Yes,Yes,89.0,1,0,0,1,0,2,0,2,2,2,0,3,3,3,0,1,4.0,1.0,1.0,0.0,Improve,20-24,6.0,1,1,121.7,moderate
+19.0,Spotify,3.0,Yes,No,No,Hip hop,Yes,No,115.0,2,0,1,0,0,3,1,1,0,2,0,3,3,3,0,1,3.0,8.0,0.0,2.0,Improve,teens adult,13.0,2,1,119.8,moderate
+17.0,Spotify,4.0,Yes,No,No,Hip hop,Yes,No,144.0,2,0,0,0,0,3,0,0,0,3,0,2,0,3,0,0,7.0,0.0,2.0,2.0,Improve,teens under 18,11.0,2,1,119.0,fast
+23.0,Spotify,4.0,Yes,No,No,Video game music,Yes,Yes,105.0,1,1,3,1,1,1,1,1,0,3,2,2,2,2,2,3,10.0,8.0,10.0,0.0,Improve,20-24,28.0,1,2,122.7,moderate
+18.0,YouTube Music,1.0,Yes,Yes,Yes,Pop,Yes,No,114.0,0,1,0,2,1,1,0,2,0,2,0,3,1,2,2,0,7.0,1.0,1.0,1.0,Improve,teens adult,10.0,1,0,118.6,moderate
+19.0,Spotify,2.0,Yes,Yes,No,Pop,Yes,Yes,145.0,1,0,2,0,0,0,0,2,0,0,1,3,0,1,2,2,5.0,9.0,1.0,7.0,No effect,teens adult,22.0,0,1,118.6,fast
+89.0,Spotify,24.0,Yes,Yes,Yes,Rap,No,No,143.0,0,0,1,1,0,3,2,0,0,1,1,1,2,3,1,0,0.0,0.0,0.0,0.0,No effect,retired,0.0,1,1,125.3,fast
+20.0,Spotify,5.0,Yes,Yes,Yes,R&B,Yes,Yes,128.0,3,2,0,2,0,3,1,3,3,3,0,3,3,3,3,2,10.0,6.0,3.0,8.0,Improve,20-24,27.0,2,1,124.6,fast
+16.0,Spotify,3.0,No,Yes,No,Rock,Yes,Yes,90.0,1,0,0,1,0,2,2,0,2,0,0,0,2,2,3,0,7.0,3.5,3.5,5.5,Improve,teens under 18,19.5,1,1,122.9,moderate
+17.0,Spotify,4.0,Yes,Yes,Yes,Country,Yes,Yes,110.0,2,3,0,0,0,1,2,3,1,2,0,3,1,1,2,0,2.0,0.0,0.0,2.0,Improve,teens under 18,4.0,3,0,116.0,moderate
+16.0,Spotify,9.0,Yes,No,No,Metal,No,Yes,130.0,1,0,0,1,0,0,0,1,1,0,3,2,1,1,3,0,10.0,10.0,10.0,8.0,Improve,teens under 18,38.0,0,1,131.0,fast
+20.0,YouTube Music,1.0,Yes,No,No,Pop,No,Yes,120.0,2,1,1,1,1,2,1,0,0,1,1,3,1,2,1,3,8.0,9.0,6.0,5.0,Worsen,20-24,28.0,1,1,119.8,fast
+30.0,YouTube Music,1.0,Yes,Yes,No,Rock,Yes,Yes,115.0,2,1,1,1,1,1,1,2,0,2,2,3,1,1,3,2,9.0,7.0,8.0,4.0,Improve,thirties,28.0,2,1,121.4,moderate
+37.0,Spotify,2.0,Yes,No,No,Folk,Yes,No,115.0,2,2,0,2,0,1,2,0,0,0,1,2,1,1,2,2,6.0,4.0,5.0,0.0,Improve,thirties,15.0,2,0,115.4,moderate
+44.0,YouTube Music,1.5,No,No,No,Folk,No,No,99.0,1,3,0,3,1,2,0,0,0,0,0,1,1,2,2,0,8.0,5.0,9.0,4.0,Improve,forties,26.0,0,1,113.6,moderate
+21.0,Spotify,2.0,Yes,Yes,No,Metal,Yes,Yes,150.0,0,1,1,0,0,0,0,0,0,0,3,1,0,2,3,1,3.0,7.0,0.0,0.0,Improve,20-24,10.0,0,1,131.0,extremely_fast
+19.0,Spotify,4.0,Yes,Yes,No,Pop,Yes,No,149.0,2,2,0,1,0,0,0,0,0,2,0,3,0,0,0,0,9.0,1.0,0.0,9.0,Improve,teens adult,19.0,2,0,118.6,fast
+23.0,Spotify,1.0,Yes,Yes,No,Rock,Yes,Yes,120.0,1,1,2,2,0,2,1,1,0,2,2,3,2,2,3,3,8.0,6.0,1.0,4.0,Improve,20-24,19.0,1,3,121.7,fast
+26.0,Spotify,1.0,No,No,No,Country,Yes,No,120.0,2,3,2,1,0,1,0,0,0,0,1,2,0,0,2,1,4.0,1.0,1.0,6.0,Improve,25-29,12.0,1,1,110.0,fast
+18.0,Spotify,3.0,Yes,No,No,Video game music,Yes,Yes,140.0,2,0,0,0,0,1,2,0,0,1,1,1,1,1,2,3,6.0,5.0,3.0,1.0,No effect,teens adult,15.0,2,0,122.4,fast
+35.0,Spotify,4.0,Yes,Yes,Yes,Hip hop,Yes,No,90.0,2,1,1,2,0,3,3,0,2,3,1,3,3,3,2,3,7.0,8.0,6.0,5.0,Improve,thirties,26.0,3,1,119.0,moderate
+16.0,Spotify,8.0,Yes,Yes,Yes,Rock,Yes,No,120.0,3,0,1,2,0,0,1,1,1,1,1,2,1,0,3,2,8.0,9.0,5.0,10.0,Improve,teens under 18,32.0,1,0,121.8,fast
+19.0,Spotify,5.0,Yes,No,No,Metal,Yes,Yes,140.0,0,0,3,0,0,1,0,0,0,0,3,1,0,1,3,2,8.0,6.0,7.0,0.0,Improve,teens adult,21.0,0,2,131.2,fast
+23.0,I do not use a streaming service.,3.0,Yes,No,No,Rock,No,No,120.0,0,0,0,1,0,0,2,0,0,1,0,2,1,0,3,0,10.0,5.0,2.0,0.0,Improve,20-24,17.0,1,0,122.9,fast
+17.0,YouTube Music,8.0,Yes,No,No,Pop,Yes,Yes,95.0,1,0,3,0,0,2,1,0,0,3,0,3,0,1,1,3,5.0,2.0,4.0,7.0,No effect,teens under 18,18.0,1,2,121.1,moderate
+29.0,Apple Music,1.0,No,No,No,Country,Yes,No,163.0,2,3,0,2,2,2,1,0,1,0,1,2,1,1,3,0,9.0,3.0,2.0,0.0,No effect,25-29,14.0,1,1,114.3,extremely_fast
+21.0,Spotify,4.0,Yes,Yes,Yes,Pop,No,No,97.0,1,2,0,2,2,1,2,0,0,0,0,2,2,1,2,0,4.0,6.0,3.0,4.0,Improve,20-24,17.0,1,0,118.6,moderate
+17.0,Spotify,1.0,No,No,No,Metal,Yes,Yes,137.0,2,0,0,1,0,1,1,1,2,1,3,2,0,1,3,1,9.0,8.0,4.0,0.0,Improve,teens under 18,21.0,1,1,131.0,fast
+23.0,Spotify,2.0,No,No,No,Rock,Yes,Yes,120.0,1,0,1,1,0,2,0,1,1,1,3,2,2,2,3,0,5.0,7.0,10.0,2.0,No effect,20-24,24.0,0,2,126.9,fast
+17.0,Spotify,1.0,Yes,Yes,No,Metal,Yes,Yes,140.0,1,0,1,2,0,0,0,0,3,3,3,2,0,0,3,3,8.0,3.0,9.0,2.0,No effect,teens under 18,22.0,1,1,131.8,fast
+22.0,Spotify,3.0,Yes,No,No,Video game music,Yes,Yes,150.0,1,1,2,2,0,1,2,1,1,1,2,3,1,1,2,3,10.0,10.0,6.0,8.0,Improve,20-24,34.0,1,2,121.1,extremely_fast
+17.0,Spotify,5.0,Yes,No,No,Hip hop,Yes,No,168.0,1,2,3,0,2,3,0,2,0,2,1,3,3,3,1,1,7.0,7.0,5.0,5.0,Improve,teens under 18,24.0,1,2,121.8,extremely_fast
+19.0,Spotify,5.0,Yes,Yes,No,Pop,Yes,Yes,163.0,3,2,1,0,1,1,1,3,2,3,1,3,1,1,2,1,10.0,8.0,1.0,0.0,Improve,teens adult,19.0,2,0,119.3,extremely_fast
+19.0,Spotify,4.0,Yes,No,No,Pop,Yes,Yes,140.0,2,1,2,0,0,2,2,1,1,2,2,3,2,2,2,2,8.0,6.0,2.0,0.0,Improve,teens adult,16.0,3,3,118.6,fast
+16.0,Spotify,6.0,Yes,No,No,Pop,Yes,Yes,105.0,1,1,2,1,0,3,2,3,3,1,0,3,3,3,0,0,10.0,7.0,6.0,10.0,Improve,teens under 18,33.0,1,2,126.9,moderate
+19.0,Spotify,6.0,Yes,No,No,Pop,Yes,Yes,78.0,1,1,1,0,0,2,2,2,1,2,0,3,1,1,1,2,6.0,6.0,8.0,0.0,Improve,teens adult,20.0,2,1,118.6,slow
+13.0,Spotify,1.0,Yes,No,No,Video game music,Yes,No,128.0,1,2,0,1,0,3,1,1,1,3,3,3,0,2,2,3,10.0,10.0,8.0,4.0,Worsen,teens under 18,32.0,1,2,121.4,fast
+18.0,Apple Music,18.0,Yes,No,No,EDM,Yes,No,90.0,2,1,3,0,1,2,2,0,0,2,2,1,2,2,2,2,9.0,8.0,5.0,10.0,Improve,teens adult,32.0,3,3,131.8,moderate
+26.0,YouTube Music,1.0,Yes,No,No,Metal,Yes,Yes,136.0,2,1,2,3,0,0,1,0,0,1,3,1,0,0,0,1,0.0,0.0,0.0,0.0,No effect,25-29,0.0,1,2,128.5,fast
+14.0,Other streaming service,7.0,Yes,Yes,No,Country,Yes,No,108.0,1,3,2,2,3,2,0,0,0,1,2,3,2,2,3,1,7.0,3.0,1.0,2.0,Improve,teens under 18,13.0,0,3,113.8,moderate
+21.0,I do not use a streaming service.,0.5,No,No,No,Pop,Yes,No,95.0,0,1,2,0,0,2,1,2,0,3,0,3,2,2,3,0,6.0,2.0,2.0,0.0,Improve,20-24,10.0,1,2,118.6,moderate
+21.0,Spotify,2.0,Yes,No,No,R&B,Yes,Yes,147.0,2,0,2,1,0,0,2,3,0,2,1,2,3,2,2,2,7.0,6.0,4.0,6.0,Improve,20-24,23.0,3,1,121.1,fast
+17.0,Spotify,2.0,Yes,Yes,No,Rock,Yes,Yes,120.0,3,1,0,2,0,2,1,0,2,1,1,3,0,1,3,0,7.0,6.0,0.0,9.0,Improve,teens under 18,22.0,1,1,121.0,fast
+18.0,Spotify,1.0,Yes,Yes,No,Pop,Yes,Yes,160.0,1,1,0,0,0,0,1,0,0,1,0,3,0,0,2,2,3.0,2.0,2.0,5.0,Improve,teens adult,12.0,0,0,118.6,extremely_fast
+19.0,Other streaming service,6.0,Yes,No,Yes,Rap,Yes,No,120.0,1,2,2,1,1,3,1,1,1,2,1,2,2,2,1,1,2.0,2.0,2.0,2.0,Improve,teens adult,8.0,1,2,122.9,fast
+19.0,Spotify,5.0,Yes,Yes,No,Classical,No,No,170.0,3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,2.0,3.0,2.0,1.0,Improve,teens adult,8.0,1,0,119.6,extremely_fast
+29.0,YouTube Music,2.0,Yes,No,No,Hip hop,Yes,Yes,98.0,2,1,3,2,1,3,3,2,0,1,0,2,3,3,3,1,2.0,2.0,2.0,5.0,Improve,25-29,11.0,2,2,121.6,moderate
